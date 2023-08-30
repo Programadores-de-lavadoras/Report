@@ -37,3 +37,8 @@
 | 1.0   | 27/08/2023   | Salomón Zegarra Moreno |Creación del reporte y se definió la estructura del informe|
 
 -----
+
+# Project Report Collaboration Insights
+[Repository to Final Report](https://github.com/Programadores-de-lavadoras/Report)
+
+----
