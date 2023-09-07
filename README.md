@@ -4,7 +4,7 @@
 
 ## Universidad Peruana de Ciencias Aplicadas
 
-### Desarrollo de aplicaciones open source
+### Desarrollo de aplicaciones Open Source
 
 #### Sección: WX52
 
@@ -12,17 +12,17 @@
 
 ### Informe del trabajo final
 
-### Programadores de lavadoras
+### Grupo 1
 
-### Readr
+### "Readr"
 
 
 | Nombres y Apellidos | Código |
 |----------|----------|
 | Stevens Acha    | Cell 2   |
 | Row 2    | Cell 5   |
-| Row 3    | Cell 8   |
-| Row 3    | Cell 8   |
+| Leonardo Manuel Dueñas Canales    | u202117475   |
+| Fabrizzio Hernán Laguerre Challco    | u20211a950   |
 | Salomón Zegarra Moreno    | u201917922   |
 
 #### AGOSTO 2023
