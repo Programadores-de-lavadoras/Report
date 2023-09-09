@@ -1048,13 +1048,126 @@ Payment context:
 # Capítulo V: Product Implementation, Validation, & Deployment
 ## 5.1. Software Configuration Managment
 ### 5.1.1. Software Development Enviroment Configuration
---escribir aquí--
+A continuación, se procederá a describir cada una de las herramientas de software que han sido empleadas en el proyecto. Este apartado resultará de utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el ciclo de vida del proyecto gracias a tener una documentación sobre cómo se está llevando a cabo el desarrollo.
+Project Management
+Trello: https://trello.com/ 
+Se empleó Trello para organizar y tener un registro de las tareas que están por hacer, se están realizando y ya están realizadas. De este modo, podemos tener una noción de cómo se está llevando a cabo el desarrollo de las diferentes actividades que quedan pendientes en el equipo. Esta es una aplicación web que es compatible con la gran mayoría de navegadores existentes y solamente requiere registrarse para tener una cuenta activa.
+Discord: https://discord.com/ 
+La plataforma de Discord se empleó para realizar las reuniones virtuales con los integrantes del equipo y tener un mejor medio para compartir contenido de diversas formas (compartir pantalla, imágenes, texto, video, etc.). Esta es una aplicación web, móvil y de escritorio que tiene amplia compatibilidad en cada una de sus versiones. Independientemente de la forma que se emplee para acceder a la aplicación, se requerirá tener una cuenta activa.
+Requirements Management
+Trello: https://trello.com/ 
+En el manejo de los requirements se empleó Trello, ya que nos permite colaborar el backlog en equipo, nos proporciona una vista cómoda. Adicionalmente, deja clara nuestras prioridades y el enfoque como grupo. Es gratuita y necesitaremos registrarnos para utilizarla.
+Product UX/UI Design:
+UXPressia: https://uxpressia.com/ 
+Se empleó esta herramienta para la creación de los User Personas, el Customer Journey Map, Empathy Map e Impact Map. Ya que cuenta con plantillas que facilitan el desarrollo de estos artefactos. Además, es colaborativo y gratuito con limitaciones. Para usar este software hace falta registrarnos y se puede acceder a él desde la gran mayoría de navegadores.
+Miro: https://miro.com/es/ 
+Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+Figma: https://www.figma.com/ 
+Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
+Software Development:
+Landing Page:
+El desarrollo del landing page se llevó a cabo con las tecnologías básicas para esta misma: HTML5, CSS3 y JavaScript. Además, para agilizar el desarrollo responsivo del landing page, se procedió a utilizar Tailwind CSS como framework de CSS. 
+Frontend Web Application:
+La aplicación web implica tener claro los conceptos básicos de HTML5, CSS3 y JavaScript, ya que se utilizó Angular como framework de JavaScript que emplea TypeScript. Asimismo, para la implementación más sencilla de componentes reutilizables y accesibles se empleó Angular Material como biblioteca de componentes UI.
+Para emplear estas herramientas hace falta tener instalado node e instalar cada una de las herramientas con su respectivo comando según el manejador de paquetes que utilicemos (en nuestro caso, npm). 
+Web Services:
+Para los servicios web se empleó el estilo de arquitectura RESTful API. Además, se empleó Java como lenguaje de programación, ya que se estará empleando Spring Boot Framework para agilizar el desarrollo. 
+Para utilizar estas herramientas se estará utilizando OpenJDK en su versión 20 (https://jdk.java.net/20/).
+IDE’s de desarrollo:
+WebStorm: https://www.jetbrains.com/webstorm/ 
+Este IDE está enfocado al desarrollo frontend y nos pondrá a disposición una amplia cantidad de herramientas que nos ayudará a agilizar el proceso de desarrollo con Angular Framework. Para emplear WebStorm hará falta contar con una licencia para su uso.
+IntelliJ IDEA Ultimate: https://www.jetbrains.com/es-es/idea/ 
+Es el IDE estrella de JetBrains que se define como el IDE líder para Java y Kotlin. Este IDE poderoso, robusto y rápido será empleado para llevar a cabo el desarrollo backend ya que agilizará el proceso de desarrollo por contar con una amplia cantidad de herramientas afines. Para utilizar IntelliJ IDEA Ultimate hará falta contar con una licencia.
+Software testing:
+Para las pruebas de testeo del software, tanto de la landing page como de la aplicación web, se utilizaron las herramientas de desarrollador de los principales navegadores web, como Google Chrome (https://www.google.com/chrome/), Microsoft Edge (https://www.microsoft.com/en-us/edge) y Mozilla Firefox (https://www.mozilla.org/en-US/firefox/browsers/).
+Cabe destacar que estos navegadores cuentan con versiones tanto para escritorio como para dispositivos móviles, las cuales son totalmente gratuitas. Para descargar la versión de escritorio, se pueden obtener desde sus sitios oficiales, mientras que, en el caso de la versión móvil, se encuentran disponibles en las tiendas de aplicaciones de los sistemas operativos correspondientes.
+Asimismo, para validar el desarrollo del landing page, en lo que supone los aspectos técnicos, se utilizará Google Lighthouse para tener un panorama automatizado y actualizado del producto desarrollado (https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=es). Esta es una extensión que es compatible con los navegadores que soportan extensiones de google de acceso gratuito.
+Finalmente, se emplea la extensión Angular Dev Tools (https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh) para tener un mejor entendimiento de cómo está funcionando la aplicación web según los componentes y los estados que maneja. Esta es una extensión que es compatible con los navegadores que soportan extensiones de google de acceso gratuito.
+Software Deployment:
+Netlify (https://www.netlify.com/):
+Para llevar a cabo el deployment del landing page, se procedió a vincular el repositorio de Github con Netlify. De este modo, Netlify gestionará de manera automática el deploy del landing page cada vez que exista un nuevo cambio en el repositorio.
+Software Documentation:
+Google Drive (https://www.google.com/intl/es-419_pe/drive/)
+Se ha utilizado Google Drive para subir archivos de documentos y presentación. Además, se han utilizado herramientas como Google Docs y Google Slides que permiten el desarrollo colaborativo de los informes a entregar en su versión sin formato.
+Lucidchart: (https://www.lucidchart.com/)
+Fue empleada para el desarrollo de los wireflows, user flows y diagramas UML. En esta plataforma podemos crear fácilmente diversos diagramas y procesos secuenciales. Asimismo, funciona en el navegador y hace falta tener una cuenta para acceder a esta.
+Structurizr: (https://structurizr.com/)
+Esta herramienta permite crear los diagramas C4 de manera rápida con una sintaxis similar a un lenguaje de programación. Para utilizar esta aplicación web hace falta tener una cuenta registrada.
+Vertabelo: (https://www.vertabelo.com/)
+Es una aplicación web colaborativa que facilita el diseño e implementación de tablas de bases de datos en una amplia variedad de motores.
+
 ### 5.1.2. Source Code Managment
---escribir aquí--
+El manejo y la organización de las diferentes modificaciones se llevaron a cabo mediante una organización del startup en Github.
+Organization: https://github.com/Programadores-de-lavadoras
+Landing Page Repository: https://github.com/Programadores-de-lavadoras/PDL-landing-page
+Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
+De este modo, se tenían 2 ramas principales: main y develop.
+•	main: En esta rama almacenaremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+•	develop: Esta rama se utilizará como rama de integración para las “feature” branches. Una vez el “head” alcance un estado estable y el equipo lo considere listo para ser lanzado, se unirá a la rama release.
+Ramas auxiliares:
+•	feature: En estas ramas trabajaremos las features que se unirán a la rama develop. Estas son las características funcionales que piden los usuarios tanto en landing page y web application. Por ejemplo, las ramas feature/login harán referencia al componente de login en la web app.
+•	release: Esta rama será utilizada para preparar el lanzamiento de una nueva versión en la rama “master”. En ella se podrá corregir pequeños bugs y preparar datos de la versión. Esta rama liberará la rama “develop” de estas preparaciones, evitando el retraso en el desarrollo mientras se prepara el lanzamiento.
+•	hotfix: La utilizaremos cuando nuestra última versión en la rama “master” necesite actualizarse debido a un error o bug crítico que no puede esperar a un siguiente lanzamiento para solucionarse.
+Commit Conventions:
+El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
+<type> [optional scope]: <description>
+Donde:
+•	type: Especifica el tipo de cambio realizado, únicamente puede ser feat, fix, docs, etc.
+•	scope: Es el alcance que tiene nuestro commit.
+•	description: Es un breve resumen de los cambios de código.
+•	Release Versioning Conventions:
+Para el formato de versiones se aplicará “Semantic Versioning 2.0.0”. Dónde las versiones siguen el formato de (X.Y.Z). En dónde:
+X: Representa una versión mayor. Aquí se encuentran los cambios que no son compatibles con las versiones anteriores. Empezando desde 0 para el desarrollo inicial y 1 cuando esté disponible al público para ser usado. Por convención Y Z se reinician a 0 cuando este incremente.
+Y: Versión menor. Aquí se encuentran los cambios que sí son compatibles con las versiones anteriores. Además, se incluirán los commits desde las “release branches” cada vez que se agreguen nuevas funcionalidades. Por convención Z se reiniciará a 0 cuando este incremente.
+Z: Parches y correcciones de errores menores. Aquí se incluyen los commits realizados desde la “hotfix branch” que se acaban haciendo merge al “main”.
+
 ### 5.1.3. Source Code Style Guide & Conventions
---escribir aquí--
+Para el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que contiene las convenciones que se deben tener en cuenta al trabajar con dichas tecnologías. Para guirarnos de las buenas prácticas accederemos mediante este enlace: https://google.github.io/styleguide/htmlcssguide.html. Entre algunas convenciones podemos mencionar:
+•	Siempre declarar el tipo de documento con <!DOCTYPE html>
+•	Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
+•	Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
+•	Siempre poner entre comillas los atributos dentro de un elemento html (<p class=”name”></p>)
+•	Especificar alt, width, and height para imágenes.
+•	Espaciado y signo igual estandarizados.
+•	Evitar líneas de código extensas.
+•	No olvidar el “<title></title>” al principio.
+•	Es posible evitar el “<head></head>”.
+•	Utilizar meta tags al inicio.
+Para el lenguaje TypeScript se usará la guía de estilos proveída por Google en el siguiente repositorio de Github: https://google.github.io/styleguide/tsguide.html. A continuación se presentan algunas convenciones:
+•	No utilizar # para especificar atributos privados. Emplear la palabra reservada private.
+•	Para instanciar objetos de una clase, siempre utilizar los paréntesis () aunque no se pasen parámetros al constructor.
+•	No utilizar export default, sino emplear solamente export.
+Para el lenguaje Gherkin se usará las convenciones mencionadas en Make your Gherkin Specifications More Readable con el fin de utilizar buenas prácticas que nos permitan comprender mejor lo desarrollado. Los archivos creados tendrán la extensión “. feature”. Se puede conocer más sobre la forma de escribir en el lenguaje de Gerkhin mediante el siguiente enlace: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/. A continuación se presentan algunas convenciones:
+•	Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+•	Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+•	Usar verbos finitos para las acciones del escenario.
+•	Evitar redundancias en la descripción de los pasos en el escenario.
+•	Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+Para el desarrollo en con Angular JS se tiene como referencia las convenciones ya definidas por el mismo equipo de Angular con el objetivo de mantener un formato entendible y que ayude en el mantenimiento del sistema. Se puede visualizar las convenciones en el siguiente link: https://angular.io/guide/styleguide. A continuación presentamos algunas convenciones esenciales en Angular:
+•	Definir funciones cortas que no superen las 75 líneas.
+•	Hacer un uso consistente de los nombres de archivos: feature.type.ts
+•	Utilizar kebab-case para nombrar los selectores de los componentes.
+Para el uso de Java, Google proveé una guía de estilos bastante completa la cual nos permitirá aplicar sus estándares. Se puede conocer más sobre esto en el siguiente link: https://google.github.io/styleguide/javaguide.html. Entre algunas convenciones podemos mencionar:
+•	Utilizar los métodos estáticos haciendo uso de la clase y no de una instancia:
+Foo aFoo = ...;
+Foo.aStaticMethod(); // good
+aFoo.aStaticMethod(); // bad
+somethingThatYieldsAFoo().aStaticMethod(); // very bad
+Finalmente, para Spring Boot Framework se empleará la documentación planteada en: https://docs.spring.io/spring-boot/docs/current/reference/html/features.html 
+
 ### 5.1.4. Software Deployment Configuration
---escribir aquí--
+En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify, para lograr el siguiente objetivo se describirán los pasos necesarios.
+1.	Nos aseguramos de tener un repositorio activado el cuál queramos vincular.
+(images/cholanding.png)
+2.	Accedemos a https://www.netlify.com e iniciamos sesión (o creamos una cuenta en su defecto). Una vez dentro, buscaremos la sección de sitios y haremos click en la opción de: Add new site > Import an existing Project.
+(images/sitos.png)  
+3.	Una vez realizado eso, seleccionaremos cuál será el proveedor de Git, en este caso, seleccionaremos Github.
+(images/imppp.png)
+4.	Una vez realizado esto, procederemos a seleccionar nuestra organización dónde encontraremos el repositorio que queremos vincular:
+(images/lavadoras.png) 
+5.	Finalmente, seleccionamos el repositorio e indicamos cuál es la branch que debemos considerar para el deploy y damos click a Deploy Site.
+(images/develop.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
@@ -1066,14 +1179,18 @@ Payment context:
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 --escribir aquí--
 #### 5.2.1.5. Execution Evidence for Sprint Review
---escribir aquí--
+Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
---escribir aquí--
+En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia el empleo de web services.
 #### 5.2.1.7. Software Deployment for Sprint Review
---escribir aquí--
-#### 5.2.1.8. Team Collaboration Insights during Sprint
---escribir aquí--
+Para el presente sprint, se ha desarrollado el landing page. Para el despliegue de su despliegue se han utilizado las siguientes herramientas:
+Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
+GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page,
+GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
 
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 ---
 # Conclusiones
 Para lograr un proyecto exitoso, resulta vital realizar todo el proceso de documentación y diseño de la aplicación que se busca solucionar. En este sentido, destacamos la gran importancia que supone la elaboración de entrevistas, ya que estas nos permiten comprender y reconocer qué es lo que verdaderamente espera el usuario encontrar en nuestra aplicación.
