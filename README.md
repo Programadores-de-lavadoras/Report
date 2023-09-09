@@ -381,6 +381,7 @@ Tener interacción con la comunidad a través de la plataforma	Alta	Alta
 ![Alt text](image-7.png)
 
 # Capítulo III: Requirements Specification
+
 ## 3.1. To-Be Scenario Mapping
 
 Creador de contenido
@@ -393,10 +394,21 @@ Lector de contenido
 
 ## 3.2. User Stories
 
+Creador de contenido
+
+![User Stories](images/User%20Stories.jpeg)
+
+Lector de contenido
+
+![User Stories](images/User%20Stories%20(2).jpeg)
+
 ## 3.3. Impact Mapping
---escribir aquí--
+
+![Impact Mapping](images/Impact%20Mapping.png)
+
 ## 3.4. Product Backlog
---escribir aquí--
+
+![Product Backlog](images/Product%20backlog.jpeg)
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
