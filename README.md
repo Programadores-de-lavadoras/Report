@@ -575,11 +575,124 @@ Payment context:
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
---escribir aquí--
+
+![classDiagram](images/class_d.png)
+
 ### 4.7.2. Class Dictionary
---escribir aquí--
+
+| **Plan** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - name: String | El nombre que recibe el plan (ej. Entry Readr o Expert Readr). |
+| - description: String | La descripción sobre el plan elaborado |
+
+| **PlanPrice** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - frequency: Frequency | Un objeto de la clase Frequency que encapsula la lógica que abarca la frecuencia en la que es vigente el Plan. |
+| - price: Money | Un objeto de la clase Price que encapsula la lógica que abarca un valor monetario. Incluye la referencia al currency y valor correspondiente. |
+
+| **PlanDiscount** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - percentApplied: float | El valor del porcentaje de descuento que se aplica al precio del plan. |
+| - maxAmountOfUsages: int | Un entero que permite conocer cuántos usos como máximo tiene el descuento |
+| - amountOfUsages: int | Un entero que indica cuántas veces ha sido utilizado el descuento. |
+| **Método** | **Descripción** |
+| + isAvailable(): boolean | Un método que permite determinar si el descuento está disponible. |
+| + decreaseUsages(quantity: int): void | Un método que permite decrementar la cantidad de usos del descuento. |
+| + increaseUsages(quantity: int): void | Un método que permite incrementar la cantidad de usos del descuento. |
+
+| **FeatureActivatable** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - value: boolean | Un boolean que permite conocer si la feature está activa o no. |
+| **Método** | **Descripción** |
+| + getDescription(): String | Retorna la descripción del feature. En este caso, se planteó como FeatureActivatable el disponer de acceso ilimitado al contenido. |
+
+| **FeatureSingleAccountableValue** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - value: number | Un valor que permite conocer un límite que se puede establecer sobre una característica. |
+| **Método** | **Descripción** |
+| + getDescription(): String | Retorna la descripción del feature. En este caso, se planteó como FeatureSingleAccountableValue el disponer de un límite de capítulos que se pueden leer al ser usuario free. |
+
+| **Subscription** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - startedAt: Date | La fecha en la que inició la suscripción. |
+| - finishedAt: Date | La fecha en la que terminó la suscripción. |
+| **Método** | **Descripción** |
+| + isActive(): boolean | Un boolean que permite conocer si la suscripción está activa |
+
+| **User** | | 
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - username: String | El nombre de usuario que será su identificador dentro de la aplicación entre los demás usuarios. |
+| - email: String | El correo del usuario. |
+| - password: String | La contraseña hasheada. |
+| - account: Account | Una referencia a la cuenta a la cuál se está asociado el usuario. |
+| **Método** | **Descripción** |
+| + closeAccount(): void | Un método para cerrar la cuenta a la que se está asociado. |
+| + isAccountOwner(): boolean | Un método que permitirá conocer si el usuario fue el mismo que creó la cuenta (ej. no proviene de una organización). |
+
+| **Account** | | 
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - firstName: String | El nombre de la persona que utiliza la cuenta. |
+| - lastName: String | El apellido de la persona que utiliza la cuenta. |
+| - createdBy: User | Una referencia al usuario que creó su cuenta. |
+| **Método** | **Descripción** |
+| + changeSubscription(newPlan: Plan): void | Un método que le permitirá cambiar de la suscripción a la que está sujeta la cuenta. |
+| + getCurrentSubscription(): Subscription | Un método que permitirá acceder a la suscripción actual de la cuenta. |
+| + changeOwner(newOwner: User): void | Un método para cambiar el propietario de la cuenta (quién la creó). |
+
+| **Book** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - title: String | El título del libro. |
+| - publishedDate: Date | La fecha en la que se publicó el libro. |
+| - author: Author | Una referencia al autor del libro. |
+| - synopsis: String | La sinopsis del libro. |
+| - language: String | El lenguaje en el que se escribió el libro. |
+| - status: BookStatusType | Indica en qué estado se encuentra el libro (publicándose, en pausa, terminado, cancelado). |
+| - genres: List\<Genre\> | Una lista de los géneros en los que se clasifica el libro. (ej. Ficción, Aventura, Sci-Fi, etc.). |
+| - chapters: List\<Chapter\> | La lista de capítulos que conforman al libro en su totalidad. |
+| **Método** | **Descripción** |
+| + getNumberOfChapters(): int | Un método que permitirá conocer cuántos capítulos en total contiene el libro. |
+| + getNumberOfPages(): int | Un método que permitirá conocer la cantidad total de páginas que contiene el libro. |
+
+| **Saga** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - title: String | El título que recibe la saga. |
+| - books: List\<Book\> | Los libros que componen la saga. |
+| - synopsis: String | La sinopsis de la saga. |
+| - language: String | El lenguaje en el que se encuentra la saga. |
+| - status: SagaStatusType | Indica el estado en el que se encuentra la saga (publicándose, en pausa, terminado o cancelado). |
+
+| **BookRepository** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - repository: DatabaseManager | El repositorio que proviene de la base de datos. |
+| **Método** | **Descripción** |
+| + addBook(newBook: Book): void | El método que nos permitirá agregar un nuevo libro al repositorio. |
+| + removeBook(bookToErase: Book) | El método nos permitirá eliminar un libro del repositorio |
+| + getBooks(): List\<Book\> | El método que nos permitirá obtener la lista completa de los libros. |
+
+| **BlogPost** | |
+| --- | --- |
+| **Atributo** | **Descripción** |
+| - title: Author | Guarda una referencia al autor del blog post. |
+| - tags: List\<Tags\> | La lista de tags a la que pertenece el blogspot (ej. educación, dibujo, técnicas, tips, consulta, etc.). |
+| - documentContentUrl: String | Guarda el URL que hace referencia al documento en markdown que se renderiza para mostrar el blog post. |
+| - comments: List\<Comment\> | La lista de comentarios que hay en el blog post. |
+
 ## 4.8. Database Design
+
 ### 4.8.1. Database Diagram
+
+
 
 # Capítulo V: Product Implementation, Validation, & Deployment
 ## 5.1. Software Configuration Managment
