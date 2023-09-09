@@ -1052,17 +1052,28 @@ A continuación, se procederá a describir cada una de las herramientas de softw
 Project Management
 Trello: https://trello.com/ 
 Se empleó Trello para organizar y tener un registro de las tareas que están por hacer, se están realizando y ya están realizadas. De este modo, podemos tener una noción de cómo se está llevando a cabo el desarrollo de las diferentes actividades que quedan pendientes en el equipo. Esta es una aplicación web que es compatible con la gran mayoría de navegadores existentes y solamente requiere registrarse para tener una cuenta activa.
+
 Discord: https://discord.com/ 
+
 La plataforma de Discord se empleó para realizar las reuniones virtuales con los integrantes del equipo y tener un mejor medio para compartir contenido de diversas formas (compartir pantalla, imágenes, texto, video, etc.). Esta es una aplicación web, móvil y de escritorio que tiene amplia compatibilidad en cada una de sus versiones. Independientemente de la forma que se emplee para acceder a la aplicación, se requerirá tener una cuenta activa.
+
 Requirements Management
+
 Trello: https://trello.com/ 
+
 En el manejo de los requirements se empleó Trello, ya que nos permite colaborar el backlog en equipo, nos proporciona una vista cómoda. Adicionalmente, deja clara nuestras prioridades y el enfoque como grupo. Es gratuita y necesitaremos registrarnos para utilizarla.
 Product UX/UI Design:
+
 UXPressia: https://uxpressia.com/ 
+
 Se empleó esta herramienta para la creación de los User Personas, el Customer Journey Map, Empathy Map e Impact Map. Ya que cuenta con plantillas que facilitan el desarrollo de estos artefactos. Además, es colaborativo y gratuito con limitaciones. Para usar este software hace falta registrarnos y se puede acceder a él desde la gran mayoría de navegadores.
+
 Miro: https://miro.com/es/ 
+
 Miro ha sido empleado en el desarrollo de los escenarios mapping y escenario mapping para ambos segmentos objetivos.
+
 Figma: https://www.figma.com/ 
+
 Esta herramienta fue de vital importancia para la creación de los wireframes, mockups y mobile applications prototyping de manera colaborativa. Asimismo, su acceso es gratuito al contar con una cuenta registrada.
 Software Development:
 Landing Page:
