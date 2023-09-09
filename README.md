@@ -1258,26 +1258,48 @@ Finalmente, para Spring Boot Framework se empleará la documentación planteada 
 En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify, para lograr el siguiente objetivo se describirán los pasos necesarios.
 
 1.	Nos aseguramos de tener un repositorio activado el cuál queramos vincular.
-(images/cholanding.png)
+
+![cholanding](https://github.com/Programadores-de-lavadoras/Report/assets/104078801/5bf33e53-aa4b-4116-a6b0-4d88c89f42eb)
+
 3.	Accedemos a https://www.netlify.com e iniciamos sesión (o creamos una cuenta en su defecto). Una vez dentro, buscaremos la sección de sitios y haremos click en la opción de: Add new site > Import an existing Project.
-(images/sitos.png)  
+
+![sitos](https://github.com/Programadores-de-lavadoras/Report/assets/104078801/81501fec-2dcb-4749-8fc1-94626b2cbb2f)
+ 
 4.	Una vez realizado eso, seleccionaremos cuál será el proveedor de Git, en este caso, seleccionaremos Github.
-(images/imppp.png)
+
+![imppp](https://github.com/Programadores-de-lavadoras/Report/assets/104078801/f999e731-82be-4000-8880-2bfc4a969138)
+
 5.	Una vez realizado esto, procederemos a seleccionar nuestra organización dónde encontraremos el repositorio que queremos vincular:
-(images/lavadoras.png) 
+
+![lavadoras](https://github.com/Programadores-de-lavadoras/Report/assets/104078801/68dbb196-3df9-40ea-b012-2f8faeca371d)
+
 6.	Finalmente, seleccionamos el repositorio e indicamos cuál es la branch que debemos considerar para el deploy y damos click a Deploy Site.
-(images/develop.png)
+   
+![develop](https://github.com/Programadores-de-lavadoras/Report/assets/104078801/3d5e675c-e6b6-4b01-81df-ffda9f16a6bd)
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
---escribir aquí--
+| **Sprint Planning Background** | |
+| --- | --- |
+| **Date** | **05 de septiembre del 2023** |
+| - Time | 17:00 horas (GMT-5) |
+| **Location** | **Modalidad remota por Discord** |
+| Prepared By | Salomón Zegarra |
+| Attendees (to plannign meeting) | Todos los miembros del equipo FicUniverse |
+| Sprint n-1 Review summary | Se creará la organización de Programadores de lavadoras en Github y el repositorio de landing page. Además, se implementará el single page estático del landing page. Asimismo, se desplegará con el servicio de Netlify. |
+| Sprint n-1 Retrospective Summary | La implementación para el landing se ha realizado con el framework de CSS Tailwind, lo que resultó una tecnología nueva para algunos miembros del equipo. Por lo tanto, ha sido un reto aprenderlo e implementarlo. Sin embargo, resulta ser un framework sencillo ya que solo se necesita conocimientos en HTML y CSS. |
+| Sprint Goal & User Stories |
+| Sprint 1 Velocity | 1 semana |
+| Sum of Story Points | 4 |
+
 #### 5.2.1.2. Sprint Backlog 1
---escribir aquí--
+
 #### 5.2.1.3. Development Evidence for Sprint Review
---escribir aquí--
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
---escribir aquí--
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
