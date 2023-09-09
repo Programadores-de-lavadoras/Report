@@ -1048,6 +1048,7 @@ Payment context:
 # Capítulo V: Product Implementation, Validation, & Deployment
 ## 5.1. Software Configuration Managment
 ### 5.1.1. Software Development Enviroment Configuration
+
 A continuación, se procederá a describir cada una de las herramientas de software que han sido empleadas en el proyecto. Este apartado resultará de utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el ciclo de vida del proyecto gracias a tener una documentación sobre cómo se está llevando a cabo el desarrollo.
 
 Project Management
@@ -1212,37 +1213,28 @@ Para el lenguaje TypeScript se usará la guía de estilos proveída por Google e
 
 https://google.github.io/styleguide/tsguide.html. A continuación se presentan algunas convenciones:
 
-•	No utilizar # para especificar atributos privados. Emplear la palabra reservada private.
-
-•	Para instanciar objetos de una clase, siempre utilizar los paréntesis () aunque no se pasen parámetros al constructor.
-
-•	No utilizar export default, sino emplear solamente export.
+- No utilizar # para especificar atributos privados. Emplear la palabra reservada private.
+- Para instanciar objetos de una clase, siempre utilizar los paréntesis () aunque no se pasen parámetros al constructor.
+- No utilizar export default, sino emplear solamente export.
 
 Para el lenguaje Gherkin se usará las convenciones mencionadas en Make your Gherkin Specifications More Readable con el fin de utilizar buenas prácticas que nos permitan comprender mejor lo desarrollado. Los archivos creados tendrán la extensión “. feature”. 
 Se puede conocer más sobre la forma de escribir en el lenguaje de Gerkhin mediante el siguiente enlace: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/. 
 A continuación se presentan algunas convenciones:
-
-•	Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
-
-•	Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
-
-•	Usar verbos finitos para las acciones del escenario.
-
-•	Evitar redundancias en la descripción de los pasos en el escenario.
-
-•	Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+- Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+- Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+- Usar verbos finitos para las acciones del escenario.
+- Evitar redundancias en la descripción de los pasos en el escenario.
+- Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
 
 Para el desarrollo en con Angular JS se tiene como referencia las convenciones ya definidas por el mismo equipo de Angular con el objetivo de mantener un formato entendible y que ayude en el mantenimiento del sistema. Se puede visualizar las convenciones en el siguiente link: https://angular.io/guide/styleguide. A continuación presentamos algunas convenciones esenciales en Angular:
 
-•	Definir funciones cortas que no superen las 75 líneas.
-
-•	Hacer un uso consistente de los nombres de archivos: feature.type.ts
-
-•	Utilizar kebab-case para nombrar los selectores de los componentes.
+- Definir funciones cortas que no superen las 75 líneas.
+- Hacer un uso consistente de los nombres de archivos: feature.type.ts
+- Utilizar kebab-case para nombrar los selectores de los componentes.
 
 Para el uso de Java, Google proveé una guía de estilos bastante completa la cual nos permitirá aplicar sus estándares. Se puede conocer más sobre esto en el siguiente link: https://google.github.io/styleguide/javaguide.html. Entre algunas convenciones podemos mencionar:
 
-•	Utilizar los métodos estáticos haciendo uso de la clase y no de una instancia:
+- Utilizar los métodos estáticos haciendo uso de la clase y no de una instancia:
 
 Foo aFoo = ...;
 
@@ -1255,6 +1247,7 @@ somethingThatYieldsAFoo().aStaticMethod(); // very bad
 Finalmente, para Spring Boot Framework se empleará la documentación planteada en: https://docs.spring.io/spring-boot/docs/current/reference/html/features.html 
 
 ### 5.1.4. Software Deployment Configuration
+
 En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify, para lograr el siguiente objetivo se describirán los pasos necesarios.
 
 1.	Nos aseguramos de tener un repositorio activado el cuál queramos vincular.
@@ -1281,6 +1274,7 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
 | **Sprint Planning Background** | |
 | --- | --- |
 | **Date** | **05 de septiembre del 2023** |
@@ -1312,9 +1306,12 @@ GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para alm
 Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
 El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
+
 ---
 # Conclusiones
+
 Para lograr un proyecto exitoso, resulta vital realizar todo el proceso de documentación y diseño de la aplicación que se busca solucionar. En este sentido, destacamos la gran importancia que supone la elaboración de entrevistas, ya que estas nos permiten comprender y reconocer qué es lo que verdaderamente espera el usuario encontrar en nuestra aplicación.
 
 Asimismo, es fundamental tener una base sólida y una organización clara sobre cómo llegar del punto inicial de planteamiento, al punto final que será la implementación del producto de software. Es por ello por lo que recomendamos encarecidamente realizar buenos diagramas C4, UML y de DB, ya que estos son la base fundamental sobre la que se trabajará en los posteriores entregables y, de tener un buen diseño, se podrán adaptar a las necesidades que surjan al momento de llevar a cabo la implementación.
@@ -1332,4 +1329,5 @@ T. (2018, 21 junio). Information Architecture. Basics for Designers. - UX Planet
 
 ---
 # Anexos
+
 Lean UX Canva: https://miro.com/app/board/uXjVMmr7aIo=/?share_link_id=353946713036
