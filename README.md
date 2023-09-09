@@ -465,7 +465,11 @@ User goal 05: Buscar y seleccionar un autor
 - Visualiza su perfil
 
 ## 4.5. Web Application Prototyping
---escribir aquí--
+
+Para la creación del prototipo de la Web Application nos hemos enfocado en las funcionalidades más importantes de nuestra aplicación. Es decir, poder leer o escribir libros, cómics o mangas. De igual manera, hemos agregado otras funcionalidades como vista de perfiles o autores para que se entienda mejor cómo funciona el apartado social de la aplicación.
+
+![Prototyping](images/prototyping.png)
+
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 --escribir aquí--
