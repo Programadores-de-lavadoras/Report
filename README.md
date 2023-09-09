@@ -185,9 +185,54 @@
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
 ### 4.1.1. General Style Guidelines
---escribir aquí--
+Para el branding de la startup se tendrá a disposición las siguientes imágenes:
+
+![logo startup](images/Startup_logo_No_Fondo2.png)
+
+Por otro lado, el branding que utilizaremos para nuestro servicio (nombre-aplicación), serán los siguientes modelos:
+
+imagen xd
+
+#### **Typography**
+Se optó por utilizar la tipografía "Inter", debido a que es simple, fácil de leer y está diseñada para ayudar con la legibilidad de letras minúsculas y mayúsculas para el lector. (Google fonts, s.f.).
+
+#### **Colors**
+Brand colors:
+
+![primary color](images/color_primario.png)
+![primary color](images/color_secundario.png)
+![primary color](images/color_terciario.png)
+
+Para el resto de colores de los aspectos básicos de la aplicación, se utilizará la siguiente paleta de colores:
+
+![color palette](images/paleta_colores.png)
+
+#### **Spacing**
+
+Para el uso de espaciado en nuestra aplicación, usaremos multiplos de 8 en un rango amplio para poder tener a nuestra disposición distintos tamaños para los elementos según sea requerido.
+
+![spacing pixels](images/spacing.png)
+
+#### **Tono de comunicación y lenguaje aplicado**
+
+Al tener como segmento objetivo a jóvenes (en su mayoría) y adultos lectores y/o escritores de fanfics, en un rango de entre 18 y 40 años, hemos optado por utilizar un tono divertido, casual, respetuoso y sereno para que estos puedan sentir que están en una aplicación juvenil, remarcando la energía y emoción al momento de leer sus historias favoritas.
+
 ### 4.1.2. Web Style Guidelines
---escribir aquí--
+
+Uno de los aspectos más importantes en el desarrollo web es el uso correcto del responsive design para que la aplicación se visualice perfectamente sin importar el tamaño de la pantalla o dispositivo.
+
+Por esta razón, se decidió realizar el desarrollo de nuestra solución tomando en cuenta los siguientes breakpoints para que el responsive design se muestre correctamente:
+
+| Breakpoint prefix | Minimum width |
+|-----------|----------|
+| sm | 640px |
+| Md | 768px |
+| L | 1024px |
+| xl | 1280px |
+| 2xl | 1536px |
+
+Con respecto a los estándares visuales, se utilizarán los mismos elementos presentados en la sección anterior para lograr uniformidad en todo el uso de nuestra aplicación. Igualmente, las medidas y propiedades presentadas son escalables, manejables y compatibles con el desarrollo de responsive design.
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 --escribir aquí--
