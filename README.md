@@ -471,12 +471,108 @@ Para la creación del prototipo de la Web Application nos hemos enfocado en las 
 ![Prototyping](images/prototyping.png)
 
 ## 4.6. Domain-Driven Software Architecture
+
+Para esta sección hemos empleado los principios de Domain-Driven Design (DDD) en conjunto con el modelo de visualización de la arquitectura de software C4 (Context, container, components and code).
+
+**Herramientas del domain-driven design:**
+
+A continuación, se muestran los principales ejemplos del uso de las herramientas de DDD aplicados a nuestro dominio, tales como el Storytelling, Event Storming, Domain message flow modeling y Bounded context canvas.
+
+**Storytelling:**
+
+Publishing a literary product:
+
+![storitelling1](images/st1.png)
+
+Looking for a literary product:
+
+![storitelling2](images/st2.png)
+
+Reading a literary producto
+ 
+![storitelling3](images/st3.png)
+
+**Event storming:**
+
+Leyenda
+
+![eventStorming1](images/e1.png)
+
+Publicación de productos literarios
+
+![eventStorming2](images/e2.png)
+
+Visualizacion de productos literarios
+
+![eventStorming3](images/e3.png)
+
+Lectura de productos literarios
+
+![eventStorming4](images/e4.png)
+
+**Domain Message Flow Modeling:**
+
+Elementos
+
+![eventStorming4](images/dm1.png)
+
+Escenario: Publicación de un producto literario nuevo
+
+![DMFM](images/dm2.png)
+
+**Bounded context canvas:**
+
+Leyenda de colaboradores
+
+![BCC](images/c1.png)
+
+Publicación de un producto literario
+
+![BCC](images/c2.png)
+
+
+En esta sección se especifican los Ubiquitous Language para cada subdominio del negocio. Sin embargo, no es necesario especificarlo para todos ya que el negocio no presenta términos complejos, sino palabras claves conocidas por todos los involucrados.
+
 ### 4.6.1. Software Architecture Context Diagram
---escribir aquí--
+
+Este diagrama corresponde al diagrama de contextos del modelo C4. En él se detalla los principales usuarios, nuestro sistema y los sistemas externos que emplearemos. Asimismo, se muestra la relación entre cada elemento.
+
+![contextDiagram](images/context_d.png)
+
+Landscape diagram:
+
+![contextDiagram](images/landscape.png)
+
 ### 4.6.2. Software Architecture Container Diagrams
---escribir aquí--
+
+Este diagrama corresponde al diagrama de contenedores del modelo C4. Aquí se especifican los contenedores y bounded context que conforman nuestro sistema Read-R, tomando elementos como el Landing, el Api Rest, la base de datos, etc. Y detalla en qué contexto están relacionados los sistemas externos con nuestro sistema de software.
+
+![containerDiagram](images/container_d.png)
+
 ### 4.6.3. Software Architecture Components Diagram
---escribir aquí--
+
+Estos diagramas corresponden a los diagramas de componentes del modelo C4. Aquí se detalla mucho más cada bounded context que conforma nuestro software Read-R, mostrando sus componentes y la relación entre ellos.
+
+Account Context:
+
+![componentDiagram](images/component1.png)
+
+Visualization Context:
+
+![componentDiagram](images/component2.png)
+
+Publishing context:
+
+![componentDiagram](images/component3.png)
+
+Reading context:
+
+![componentDiagram](images/component4.png)
+
+Payment context:
+
+![componentDiagram](images/component5.png)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 --escribir aquí--
