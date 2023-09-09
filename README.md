@@ -266,7 +266,9 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 #### 1.2.2.4. Lean UX Canvas
 ![leanux.jpg](images%2Fleanux.jpg)
 ## 1.3. Segementos Objetivos
+**Creadores de contenido:** Personas que desean crear y compartir sus propias historias, cómics o mangas en línea.
 
+**Lectores de contenido:** Personas que disfrutan de leer historias, cómics o mangas y buscan una plataforma en línea para hacerlo de manera sencilla, rápida y accesible.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
