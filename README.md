@@ -384,8 +384,7 @@ Tener interacción con la comunidad a través de la plataforma	Alta	Alta
 ## 3.1. To-Be Scenario Mapping
 :v
 ## 3.2. User Stories
-![--escribir aquí--
-](imagen_2023-09-09_043016006.png)
+--escribir aquí--
 ## 3.3. Impact Mapping
 --escribir aquí--
 ## 3.4. Product Backlog
