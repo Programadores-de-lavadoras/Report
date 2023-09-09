@@ -20,7 +20,7 @@
 
 | Nombres y Apellidos | Código |
 |----------|----------|
-| Stevens Acha    | Cell 2   |
+| Stevens Kharis Acha Esquerre | u20201e735 |
 | Row 2    | Cell 5   |
 | Leonardo Manuel Dueñas Canales    | u202117475   |
 | Fabrizzio Hernán Laguerre Challco    | u20211a950   |
