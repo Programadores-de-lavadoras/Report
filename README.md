@@ -1056,13 +1056,20 @@ Payment context:
 
 ---
 # Conclusiones
+Para lograr un proyecto exitoso, resulta vital realizar todo el proceso de documentación y diseño de la aplicación que se busca solucionar. En este sentido, destacamos la gran importancia que supone la elaboración de entrevistas, ya que estas nos permiten comprender y reconocer qué es lo que verdaderamente espera el usuario encontrar en nuestra aplicación.
 
---escribir aquí--
+Asimismo, es fundamental tener una base sólida y una organización clara sobre cómo llegar del punto inicial de planteamiento, al punto final que será la implementación del producto de software. Es por ello por lo que recomendamos encarecidamente realizar buenos diagramas C4, UML y de DB, ya que estos son la base fundamental sobre la que se trabajará en los posteriores entregables y, de tener un buen diseño, se podrán adaptar a las necesidades que surjan al momento de llevar a cabo la implementación.
 
 ---
 # Bibliografía
 
---escribir aquí--
+Inter. (s.f.). Google Fonts. Recuperado 26 de marzo de 2023, de https://fonts.google.com/specimen/Inter
+
+La República. (2022, 7 marzo). Día Mundial de la Lectura: ¿por qué es importante y qué beneficios brinda leer a menudo? Recuperado 27 de marzo de 2023, de https://larepublica.pe/datos-lr/respuestas/2022/03/07/dia-mundial-de-la-lectura-por-que-es-importante-y-que-beneficios-brinda-la-lectura-libros-evat
+
+Staff, F. (2021, 6 noviembre). Peruanos leen un libro al año en promedio, según estudio. Forbes Perú. Recuperado 26 de marzo de 2023, de https://forbes.pe/forbes-life/2021-11-06/peruanos-leen-un-libro-al-ano-en-promedio-segun-estudio/
+
+T. (2018, 21 junio). Information Architecture. Basics for Designers. - UX Planet. Medium. https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20
 
 ---
 # Anexos
