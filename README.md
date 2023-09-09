@@ -397,9 +397,9 @@ Para el branding de la startup se tendrá a disposición las siguientes imágene
 
 ![logo startup](images/Startup_logo_No_Fondo2.png)
 
-Por otro lado, el branding que utilizaremos para nuestro servicio (nombre-aplicación), serán los siguientes modelos:
+Por otro lado, el branding que utilizaremos para nuestro servicio (FicUniverse), serán los siguientes modelos:
 
-imagen xd
+![logo product](images/ficuniverse-logo.png)
 
 #### **Typography**
 Se optó por utilizar la tipografía "Inter", debido a que es simple, fácil de leer y está diseñada para ayudar con la legibilidad de letras minúsculas y mayúsculas para el lector. (Google fonts, s.f.).
