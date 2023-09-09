@@ -1187,27 +1187,19 @@ Y: Versión menor. Aquí se encuentran los cambios que sí son compatibles con l
 Z: Parches y correcciones de errores menores. Aquí se incluyen los commits realizados desde la “hotfix branch” que se acaban haciendo merge al “main”.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
 Para el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que contiene las convenciones que se deben tener en cuenta al trabajar con dichas tecnologías. Para guirarnos de las buenas prácticas accederemos mediante este enlace: https://google.github.io/styleguide/htmlcssguide.html. Entre algunas convenciones podemos mencionar:
 
-•Siempre declarar el tipo de documento con <!DOCTYPE html>
-
-•Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
-
-•Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
-
-•Siempre poner entre comillas los atributos dentro de un elemento html (<p class=”name”></p>)
-
-•Especificar alt, width, and height para imágenes.
-
-•Espaciado y signo igual estandarizados.
-
-•Evitar líneas de código extensas.
-
-•No olvidar el “<title></title>” al principio.
-
-•Es posible evitar el “<head></head>”.
-
-•Utilizar meta tags al inicio.
+- Siempre declarar el tipo de documento con <!DOCTYPE html>.
+- Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
+- Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
+- Siempre poner entre comillas los atributos dentro de un elemento html (<p class=”name”></p>)
+- Especificar alt, width, and height para imágenes.
+- Espaciado y signo igual estandarizados.
+- Evitar líneas de código extensas.
+- No olvidar el “<title></title>” al principio.
+- Es posible evitar el “<head></head>”.
+- Utilizar meta tags al inicio.
 
 Para el lenguaje TypeScript se usará la guía de estilos proveída por Google en el siguiente repositorio de Github: 
 
@@ -1295,10 +1287,15 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia el empleo de web services.
+
 #### 5.2.1.7. Software Deployment for Sprint Review
+
 Para el presente sprint, se ha desarrollado el landing page. Para el despliegue de su despliegue se han utilizado las siguientes herramientas:
 Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
 GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page,
