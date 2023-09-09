@@ -382,7 +382,7 @@ Tener interacción con la comunidad a través de la plataforma	Alta	Alta
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
---escribir aquí--
+:v
 ## 3.2. User Stories
 --escribir aquí--
 ## 3.3. Impact Mapping
