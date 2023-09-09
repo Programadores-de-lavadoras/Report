@@ -14,7 +14,7 @@
 
 ### Grupo 1
 
-### "Readr"
+### FicUniverse
 
 ### Ciclo 2023-2
 
