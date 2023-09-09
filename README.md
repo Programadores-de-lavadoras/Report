@@ -692,7 +692,7 @@ Payment context:
 
 ### 4.8.1. Database Diagram
 
-
+![dataBase_Diagram](images/database_d.png)
 
 # Capítulo V: Product Implementation, Validation, & Deployment
 ## 5.1. Software Configuration Managment
