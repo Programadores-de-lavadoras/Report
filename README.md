@@ -1269,7 +1269,7 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 
 | **Sprint Planning Background** | |
 | --- | --- |
-| **Date** | **05 de septiembre del 2023** |
+| **Date** | **21 de agosto del 2023** |
 | - Time | 17:00 horas (GMT-5) |
 | **Location** | **Modalidad remota por Discord** |
 | Prepared By | Salomón Zegarra |
