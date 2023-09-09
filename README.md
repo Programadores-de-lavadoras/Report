@@ -277,19 +277,13 @@ De esta manera, el usuario no se sentirá frustrado o confundido por una mala or
 
 En consecuencia, todo el diseño trabajado para nuestro proyecto, será enfocado en cumplir estas reglas establecidas.
 
-### 4.2.2. Labeling Systems
---escribir aquí--
-### 4.2.3. SEO Tags and Meta Tags
---escribir aquí--
-### 4.2.4. Searching Systems
---escribir aquí--
-### 4.2.5. Navigation Systems
---escribir aquí--
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page UI Design
---escribir aquí--
+![wireframe landing page](images/wireframes_landing.png)
+
 ### 4.3.2. Landing Page Mock-up
---escribir aquí--
+![mockup landing page](images/mockup_landing.png)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Application Wireframes
 --escribir aquí--
