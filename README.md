@@ -286,13 +286,184 @@ En consecuencia, todo el diseño trabajado para nuestro proyecto, será enfocado
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Application Wireframes
---escribir aquí--
+Register
+
+![wireframe web app 1](images/wireframe_1.png)
+
+Log in
+
+![wireframe web app 2](images/wireframe_2.png)
+
+Home 1
+
+![wireframe web app 3](images/wireframe_3.png)
+
+Home 2
+
+![wireframe web app 4](images/wireframe_4.png)
+
+Home 3
+
+![wireframe web app 5](images/wireframe_5.png)
+
+My profile
+
+![wireframe web app 7](images/wireframe_7.png)
+
+Another person profile
+
+![wireframe web app 8](images/wireframe_8.png)
+
+Creations 1
+
+![wireframe web app 9](images/wireframe_9.png)
+
+Creation 2
+
+![wireframe web app 10](images/wireframe_10.png)
+
+Reading
+
+![wireframe web app 11](images/wireframe_11.png)
+
+Writing
+
+![wireframe web app 12](images/wireframe_12.png)
+
+Authors
+
+![wireframe web app 13](images/wireframe_13.png)
+
+
 ### 4.4.2. Web Application Wireflow Diagrams
---escribir aquí--
+
+User goal 01: Entrar a la aplicación mediante una cuenta
+![wireflow diagram 1](images/wd_1.png)
+
+1.	Ingresa a la aplicación web "FicUniverse".
+2.	Si tiene una cuenta inicia sesión. Si no, se registra.
+3.	Entra a la cuenta.
+
+User goal 02: Ingresar al perfil de usuario
+![wireflow diagram 2](images/wd_2.png)
+
+1.	Ingresa a la aplicación web “FicUniverse”.
+2.	Hace click en la foto de perfil de usuario.
+3.	Visualiza sus datos.
+
+User goal 03: Leer un Fanfic
+![wireflow diagram 3](images/wd_3.png)
+
+1.	Ingresa a la aplicación web "FicUniverse".
+2.	Abre el menú lateral.
+3.	Selecciona la opción “Creaciones”.
+4.	Selecciona el fanfic que desee.
+5.	Se abre la vista de lectura.
+
+User goal 04: Escribir cualquier Fanfic
+![wireflow diagram 4](images/wd_4.png)
+
+1.	Ingresa a la aplicación "FicUniverse".
+2.	Abre el menú lateral.
+3.	Selecciona la opción “Escribir”.
+4.	Edita su obra.
+
+User goal 05: Buscar y seleccionar un autor
+![wireflow diagram 5](images/wd_5.png)
+
+1.	Ingresa a la aplicación "FicUniverse".
+2.	Abre el menú lateral.
+3.	Selecciona la opción “Autores”.
+4.	Escoge el autor que desee.
+5.	Visualiza su perfil
+
 ### 4.4.3. Web Applicationns Mock-up
---escribir aquí--
+
+ Register
+
+![register mock-up](images/Register.png)
+
+Log in
+
+![log in mock-up](images/Log_in.png)
+
+Home 1
+
+![Home1](images/Home1.png)
+
+Home 2
+
+![Home2](images/Home2.png)
+
+Home 3
+
+![Home3](images/Home3.png)
+
+My profile
+
+![MyProfile](images/Myprofile.png)
+
+Another person profile
+
+![AnotherProfile](images/Another-person-profile.png)
+
+Creation 1
+
+![Creations1](images/Creations_1.png)
+
+Creation 2
+
+![Creations2](images/Creations_2.png)
+
+Reading 
+
+![Reading](images/Reading.png)
+
+Writing
+
+![Writing](images/Writing.png)
+
+Authors
+
+![Authors](images/Authors.png)
+
 ### 4.4.4. Web Application User Flow Diagrams
---escribir aquí--
+
+User Flow 01: Entrar a la aplicación mediante una cuenta
+
+![UserFlow1](images/uf_1.png)
+
+- Happy path: Puede crear una cuenta o iniciar sesión satisfactoriamente
+- Unhappy path: No ingresa los datos correctamentes
+
+User Flow 02: Ingresar al perfil de usuario
+![UserFlow2](images/uf_2.png)
+
+
+- Happy path: Puede visualizar sus datos del perfil
+- Unhappy path: No ingresa a su perfil o no se visualizan los datos
+
+User Flow 03: Leer un fanfic
+- Happy path: Puede leer la creación seleccionada
+- Unhappy path: No carga la selección o no se muestra la información
+
+User Flow 04: Escribir cualquier obra
+
+![UserFlow4](images/uf_4.png)
+
+- Ingresa a la aplicación “FicUniverse”.
+- Selecciona la opción “Escribir”.
+- Edita su obra.
+
+User goal 05: Buscar y seleccionar un autor
+
+![UserFlow5](images/uf_5.png)
+
+- Ingresa a la aplicación “FicUniverse”.
+- Selecciona la opción “Autores”.
+- Escoge el autor que desee.
+- Visualiza su perfil
+
 ## 4.5. Web Application Prototyping
 --escribir aquí--
 ## 4.6. Domain-Driven Software Architecture
