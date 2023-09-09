@@ -129,7 +129,9 @@
 # Capitulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
---escribir aquí--
+Programadores de lavadadoras es un startup dedicado a fomentar y motivar los hábitos de lectura mediante el uso de tecnologías que facilitan el acceso, la distribución y la creación de contenidos.
+En Programadores de lavadoras, nos visualizamos como líderes en la transformación del sector de la lectura a través de soluciones tecnológicas innovadoras y una cultura de colaboración. Queremos ser reconocidos por nuestra capacidad para crear un ecosistema de lectura inclusivo, accesible y sostenible, que inspire a las personas a leer y disfrutar de historias en todo el mundo.
+Nuestra misión es hacer que la lectura sea más accesible y atractiva para todas las personas, sin importar su edad o nivel de educación. Para lograrlo, trabajamos en estrecha colaboración con autores, editores y lectores para desarrollar soluciones tecnológicas innovadoras que hagan que la lectura sea más conveniente y atractiva que nunca.
 ### 1.1.2. Perfiles de integrantes del equipo
 --escribir aquí--
 ## 1.2. Solution Profile
