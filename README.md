@@ -1073,5 +1073,4 @@ T. (2018, 21 junio). Information Architecture. Basics for Designers. - UX Planet
 
 ---
 # Anexos
-
---escribir aquí--
+Lean UX Canva: https://miro.com/app/board/uXjVMmr7aIo=/?share_link_id=353946713036
