@@ -1269,6 +1269,54 @@ Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y de
 
 El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 
+
+### 5.3.1. Sprint 2
+#### 5.3.1.1. Sprint Planning 2
+
+| **Sprint Planning Background** | |
+| --- | --- |
+| **Date** | **28 de agosto del 2023** |
+| - Time | 15:00 horas (GMT-5) |
+| **Location** | **Modalidad remota por Discord** |
+| Prepared By | Salomón Zegarra |
+| Attendees (to plannign meeting) | Todos los miembros del equipo FicUniverse |
+| Sprint n-2 Review summary | Se realizaron las primeras interfaces de nuestro front-end, de acuerdo a los mockups que se habia realizado anteriormente, para esto caada compañero realizaba un CRUD. |
+| Sprint n-2 Retrospective Summary | La implementación para el front-end se ha realizado con el framework de Angular, lo que resultó  algo nuevo para algunos miembros del equipo. Por lo tanto, ha sido un reto aprenderlo e implementarlo. Con el apoyo de los compañeros se ha podido avanzar |
+| Sprint Goal & User Stories |
+| Sprint 2 Velocity | 1 semana |
+| Sum of Story Points | 5 |
+
+
+#### 5.3.1.2. Sprint Backlog 2
+
+![Alt text](image-20.png)
+
+#### 5.3.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID | Commit Message de modificación | Commited on (Date) |
+|----------|----------|----------|----------|----------|
+| 1.0   | 27/08/2023   | Salomón Zegarra Moreno |Creación del reporte y se definió la estructura del informe|
+
+#### 5.3.1.3. Development Evidence for Sprint Review
+
+#### 5.3.1.4. Testing Suite Evidence for Sprint Review
+
+#### 5.3.1.5. Execution Evidence for Sprint Review
+
+
+
+#### 5.3.1.6. Services Documentation Evidence for Sprint Review
+
+
+
+#### 5.3.1.7. Software Deployment for Sprint Review
+
+
+
+#### 5.3.1.8. Team Collaboration Insights during Sprint
+
+
+
 ---
 # Conclusiones
 
