@@ -1302,7 +1302,11 @@ El equipo desarrolló el landing page por ramas para desarrollar cada sección, 
 | 5.0   | feature/StevensAcha   | 998e715 |feature: added chapter component |29/08/2023|
 | 6.0   | feature/SantosAlexis   | 12e2465 | feature: added fanfic component| 29/08/2023|
 
+Captura del repositorio:
+
 ![Repository evidence](development-evidence.png)
+
+Link del repositorio: https://github.com/Programadores-de-lavadoras/front-ficuniverse 
 
 #### 5.3.1.4. Testing Suite Evidence for Sprint Review
 
