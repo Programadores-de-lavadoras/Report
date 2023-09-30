@@ -1275,16 +1275,16 @@ El equipo desarrolló el landing page por ramas para desarrollar cada sección, 
 
 | **Sprint Planning Background** | |
 | --- | --- |
-| **Date** | **28 de agosto del 2023** |
-| - Time | 15:00 horas (GMT-5) |
+| **Date** | **17 de agosto del 2023** |
+|  Time | 15:00 horas (GMT-5) |
 | **Location** | **Modalidad remota por Discord** |
 | Prepared By | Salomón Zegarra |
 | Attendees (to plannign meeting) | Todos los miembros del equipo FicUniverse |
-| Sprint n-2 Review summary | Se realizaron las primeras interfaces de nuestro front-end, de acuerdo a los mockups que se habia realizado anteriormente, para esto caada compañero realizaba un CRUD. |
-| Sprint n-2 Retrospective Summary | La implementación para el front-end se ha realizado con el framework de Angular, lo que resultó  algo nuevo para algunos miembros del equipo. Por lo tanto, ha sido un reto aprenderlo e implementarlo. Con el apoyo de los compañeros se ha podido avanzar |
-| Sprint Goal & User Stories |
-| Sprint 2 Velocity | 1 semana |
-| Sum of Story Points | 5 |
+| Sprint n-1 Review summary | Se realizó y desplegó el Landing Page del startup, además del registro de documentación por medio del reporte |
+| Sprint n-1 Retrospective Summary | La implementación para la Landing Page se ha realizado empleando Tailwind, lo que resultó  algo nuevo para algunos miembros del equipo. Por lo tanto, ha sido un reto aprenderlo e implementarlo. Con el apoyo de los compañeros se ha podido avanzar. |
+| Sprint Goal & User Stories | Se realizará las primeras interfaces de nuestro front-end empleando Angular como framework, de acuerdo a los mockups que se habian realizado anteriormente. Para esto cada compañero realizará un CRUD.|
+| Sprint 2 Velocity | 2 semana |
+| Sum of Story Points | 25 |
 
 
 #### 5.3.1.2. Sprint Backlog 2
@@ -1295,23 +1295,34 @@ El equipo desarrolló el landing page por ramas para desarrollar cada sección, 
 
 | Repository | Branch | Commit ID | Commit Message de modificación | Commited on (Date) |
 |----------|----------|----------|----------|----------|
-| 1.0   | 27/08/2023   | Salomón Zegarra Moreno |Creación del reporte y se definió la estructura del informe|
+| 1.0   | develop   | 12e2465 |Initial commit| 25/08/2023|
+| 2.0   | develop   | 91c1df3 |First commit| 25/08/2023|
+| 3.0   | develop   | 2eda68b |refactor: adding dependencies and .json files | 25/08/2023|
+| 4.0   | develop   | 53617f8 |feature: added imports modules and changed default theme| 29/08/2023|
+| 5.0   | feature/StevensAcha   | 998e715 |feature: added chapter component |29/08/2023|
+| 6.0   | feature/SantosAlexis   | 12e2465 | feature: added fanfic component| 29/08/2023|
 
-#### 5.3.1.3. Development Evidence for Sprint Review
+![Repository evidence](development-evidence.png)
 
 #### 5.3.1.4. Testing Suite Evidence for Sprint Review
 
+Esta etapa de desarrollo aún no comprende el testeo del front end de la aplicación. Solo se reitera el testeo realizado previamente durante el sprint 1. empleando Gherkin.
+
 #### 5.3.1.5. Execution Evidence for Sprint Review
 
+Capturas de la ejecución del frontend:
+
+![Excecution evidence 1](execution-evidence-1.png)
+![Excecution evidence 2](execution-evidence-2.jpg)
 
 
 #### 5.3.1.6. Services Documentation Evidence for Sprint Review
 
-
+Para este Sprint, no está dentro del alcance la documentación con el servicio API desplegado del backend. Sin embargo, se ha empleado un "fake API" empleando Json Server, permitiendo consultar todos los endpoints CRUD (GET/POST/UPDATE/DELETE) para nuestra applicación.
 
 #### 5.3.1.7. Software Deployment for Sprint Review
 
-
+Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
 
 #### 5.3.1.8. Team Collaboration Insights during Sprint
 
