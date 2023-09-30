@@ -1336,7 +1336,7 @@ El equipo desarrolló el landing page por ramas para desarrollar cada sección, 
 
 Captura del repositorio:
 
-![Repository evidence](development-evidence.png)
+![Repository evidence](development-evidence.PNG)
 
 Link del repositorio: https://github.com/Programadores-de-lavadoras/front-ficuniverse 
 
