@@ -1263,7 +1263,9 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 Repositorio de la Landing Page:
+
 ![Landing Repository](landing-repository.png)
+
 Link del repositorio: https://github.com/Programadores-de-lavadoras/PDL-landing-page 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1347,6 +1349,7 @@ Esta etapa de desarrollo aún no comprende el testeo del front end de la aplicac
 Capturas de la ejecución del frontend:
 
 ![Excecution evidence 1](execution-evidence-1.png)
+
 ![Excecution evidence 2](execution-evidence-2.jpg)
 
 
@@ -1362,8 +1365,8 @@ Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
 
 El equipo desarrolló el avance del frontend por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 
-
 ![Frontend Insight 1](insights-sprint-2-1.png)
+
 ![Frontend Insight 2](insights-sprint-2.png)
 
 
