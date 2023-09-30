@@ -1126,6 +1126,8 @@ Organization: https://github.com/Programadores-de-lavadoras
 
 Landing Page Repository: https://github.com/Programadores-de-lavadoras/PDL-landing-page
 
+Frontend Repository: https://github.com/Programadores-de-lavadoras/front-ficuniverse
+
 Asimismo, para llevar a cabo un mejor control de cómo crear ramas y realizar cambios en el código fuente, se procedió a utilizar GitFlow.
 De este modo, se tenían 2 ramas principales: main y develop.
 
@@ -1264,7 +1266,7 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 #### 5.2.1.3. Development Evidence for Sprint Review
 Repositorio de la Landing Page:
 
-![Landing Repository](landing-repository.png)
+![Landing Repository](landing-repository.PNG)
 
 Link del repositorio: https://github.com/Programadores-de-lavadoras/PDL-landing-page 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
@@ -1273,9 +1275,9 @@ Link del repositorio: https://github.com/Programadores-de-lavadoras/PDL-landing-
 
 Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
 
-![Landing Execution Evidence 1](execution-evidence-landing-1.png)
+![Landing Execution Evidence 1](execution-evidence-landing-1.PNG)
 
-![Landing Execution Evidence 2](execution-evidence-landing-2.png)
+![Landing Execution Evidence 2](execution-evidence-landing-2.PNG)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1298,9 +1300,9 @@ Link del Landing Page desplegado: https://wondrous-snickerdoodle-d619f3.netlify.
 
 El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 
-![Landing Insights](landing-insights-1.png)
+![Landing Insights](landing-insights-1.PNG)
 
-![Landing Insights](landing-insights-2.png)
+![Landing Insights](landing-insights-2.PNG)
 
 ### 5.3.1. Sprint 2
 #### 5.3.1.1. Sprint Planning 2
@@ -1348,7 +1350,7 @@ Esta etapa de desarrollo aún no comprende el testeo del front end de la aplicac
 
 Capturas de la ejecución del frontend:
 
-![Excecution evidence 1](execution-evidence-1.png)
+![Excecution evidence 1](execution-evidence-1.PNG)
 
 ![Excecution evidence 2](execution-evidence-2.jpg)
 
@@ -1365,9 +1367,9 @@ Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
 
 El equipo desarrolló el avance del frontend por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 
-![Frontend Insight 1](insights-sprint-2-1.png)
+![Frontend Insight 1](insights-sprint-2-1.PNG)
 
-![Frontend Insight 2](insights-sprint-2.png)
+![Frontend Insight 2](insights-sprint-2.PNG)
 
 
 ---
