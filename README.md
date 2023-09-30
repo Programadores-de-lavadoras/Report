@@ -14,7 +14,7 @@
 
 ### Grupo 1
 
-### "Readr"
+### FicUniverse
 
 ### Ciclo 2023-2
 
@@ -36,6 +36,14 @@
 | Versión | Fecha | Autor | Descripción de modificación |
 |----------|----------|----------|----------|
 | 1.0   | 27/08/2023   | Salomón Zegarra Moreno |Creación del reporte y se definió la estructura del informe|
+
+-----
+# Student Outcomes
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|----------|----------|----------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.   |  Acha Esquerre, Stevens Kharis.<br> TB1 <br>Logré comunicar oralmente mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio de un video expositivo. <br>TP1<br> Logré comunicar mis ideas y resultados orálmente a través de las reuniones en equipo y el video expositivo, explicando mi parte del Sprint 2, la Entidad Chapters con su CRUD. Asimismo por medio de la exposición realizada en clase.<br>
+  |  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Acha Esquerre, Stevens Kharis.<br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrollo del proyecto. Pude expresar mis resultados encargándome del capitulo 4, tanto dentro de los MockUps como en el approach de Domai-Driven Software Architecture. <br>TP1<br> Logré comunicar mis ideas y resultados de manera escrita a través de las reuniones en equipo, la mejora continua del reporte, y el desarrollo del CRUD de la entidad Chapters para la primera versión de la aplicación frontend.<br> |  |
 
 -----
 
@@ -278,42 +286,11 @@ Finalmente, nuestro producto será utilizado por medio de una aplicación web qu
 ### 2.1.1. Análisis Competitivo
 
 
-¿Por qué llevar a cabo este análisis?	
-¿Cómo contribuye al análisis de las preferencias que los usuarios buscan en una plataforma similar a la nuestra?
-
-
-Nos capacita para ajustarnos y mejorar en áreas distintas a las de nuestros competidores, lo que nos permitirá sobresalir y atraer a una audiencia.
-
-Competidores y logo	
-Read-r	Archive of Our Own	Fanfiction.net	Wattpad
-Perfil	Overview	 	 	 	 
-
-Ventaja Competitiva
-¿Qué valor ofrece a los clientes?	
-
-Ofrece un amplio catálogo de contenido de fanfics, así como también una gran comunidad de lectores y escritores, estos ultimos siendo fuente de nuestra exclusividad	Ofrece una extensa colección de fanficts , se tiene acceso a un contenido que abarca toos los generos.	Posee una vasta colección de fanficts, Brinda una amplia variedad de elecciones.	Cuenta con una Plataforma de uso sencillo, tiene una extensa biblioteca de fanfics, cuenta con una comunidad de usuarios que interactuan mediante comentarios, foros. Esto fomenta apoyo a los escritores.
-Perfil del Marketing	Mercado Objetivo	Fanáticos del fanfics, ademas de escritores con potencial.	Cualquier persona que disfrute de la lectura y escritura de fanficts 	Fanaticos de Fancits, Jovenes adultos y adolescents.	Fanáticos de franquicias populares de television, libros y películas. También para escritores aspirantes.
-
-Estrategias de Marketing	Ofrecen una variedad de opciones de suscripción, incluyendo una versión gratuita con anuncios y una versión premium sin anuncios ademas de colaboracion de escritores y editores para ofrecer un mayor catalogo y calidad
-
-Proporciona un entorno seguro para los escritores y lectores. Ofrece una variedad de herramientas diseñadas para ayudar a los usuarios a mejorar.	PArticipa en eventos de los fans y festivals de literature, la Plataforma por su parte realiza eventos. También trabaja con influencers escritores y lectores de las redes sociales. Proporciona incentivos a aquellos que recomienden la Plataforma a otras personas.	Emplea diversos medios marketing digital, publicidad en linea, presencia en redes social con los que colabora con personas influyentes para promocionar, y realiza campañas de correo electronico. También se involucra en eventos.
-Perfil del producto	Productos y Servicios	Servicio de suscripción de fanfics que ofrece un gran catalogo en linea y la opcion de leer y publicar contenido en varios idiomas.	Los usuarios tiene la capacidad de cargar una amplia gama de archivos, incluyen texto, imagenes, audio y video. Tiene a disposición una serie de busquedas, según el título, el autor, el genero y otros criterios. 	Brinda un valor considerable a sus usuarios al proporcionar una amplia colección de fanfict, comunidad particpativa y una interfaz sencilla.	Brinda a los escritores publicar sus creaciones de manera gratuita, presenta una serie de programas de becas para respaldar a escritores en Desarrollo.
-A los lectores les proporciona diversas herramientas que ayudan a encontrar contenido de su interés.
-
-Precios y costos	Aplicación web que obtiene ganancia por suscripción y publicidad	No require ningún tipo de tarifa. La Plataforma se sustenta gracias a las donaciones de sus usuarios y aportaciones. 	Tiene a disposición una opción de suscripción premium, que Brinda acceso a características y servicios adicionales.	Es gratuito, pero Tambien ofrece un acceso de contenido exclusivo, como historias, no tener publicidad y descargar libros ilimitadament.
-
-Canales de distribución (Web y/o Móvil)	Web Site	Web Site	Web site	Web site y dispositvos móviles (iOS y Android )
-
-Análisis SWOT	Fortalezas	Amplia variedad de fanfics, además de la posibilidad de publicar obras de autores novatos de todo el mundo	Sin fines de lucro, no tiene publicidad es de libre contenido, permite a los usuarios publicar cualquier tipo de fanfict, cuenta con una gran comunidad de escritores, ofrece una variedad de servicios.	Cuenta con millones de historias para leer, desde populares hasta desconocidas, cuenta con una Plataforma intuitiva y facil de usar por parte del usuario. Su capacidad de calificar a otros usuarios.	Promocionar herramientas de edcición y publicación que ayudan a los escritores a mejorar la calidad de su trabajo. Contar con un programa de becas para brindar oportunidades a los escritores para que ganen reconocimiento y en algunos casos ingresos.
-
-Oportunidades	Ampliar la variedad de contenido, crear material original, elevar los estándares de traducción, establecer alianzas con otros servicios de streaming, incursionary en nuevos mercados y nuevas alternativas adicionales para generar ingresos.	Expandirese a nuevos idiomas, mejorar todas sus funciones que ofrece a los usuarios. También colaborar con diversas organizaciones.	Ofrece nuevas funciones y servicios, contar con nuevas herramientas para los escritores.	Dispone en mas de 50 idiomas, pero podria alcanzar a mas audiencia. Contar con nuevas herramientas y colaborar con nuevos socios.
-
-Debilidades	Existen ciertas carencias en los acuerdos de licencia que poodrian pone ren riesgo la integridad de algunas historias.  	Su interfaz puede causar confusion y no es tan sencillo para los nuevos usuarios, el moderar su contenido, los problemas de financiamiento. En algunas ocasiones la pagina puede ser inestable.	Su interfaz puede ser complicado de utilizer para algunos usuarios.
-Los escritores cuentan con pocas alternativas para obtener ganancias.	 Cuenta con una amplia de contenido, eso incluye una cantidad de material de calidad inferior y puede complicar la busquedad de sus usarios.
-La distribución de contenido illegal y casos de acoso en liena.
-
-Amenazas	.La alta competencia, con competidores solidamente establecidos y las politicas de censura en cada país, lo cual podria influir en los fanfics.	Empresas o los gobiernos pueden censurar el contenido que Brinda, el no contar con un financiamiento por parte de la misma Plataforma puede que disminuya su popularidad.	Aumento de rivalidad en el mercado y tener mejores caracterisitcas esto puede causar dificultad que la Plataforma atraiga y retenga a sus usuarios.	Las tendencias tecnologicas en constante cambio, las preferencias cambiantes de los usarios y possible regulacion de gobiernos podria influir.
-
+![Alt text](image-13.png)
+![Alt text](image-14.png)
+![Alt text](image-15.png)
+![Alt text](image-16.png)
+![Alt text](image-17.png)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 - Asegurar la calidad del contenido: Los fanfics que pongamos a disposición contarán con traducciones y de alta calidad. Dado que la calidad del contenido es fundamental, nos esforzamos para evitar que los lectores se sientan decepcionados y así poder asegurar su fidelidad.
@@ -329,47 +306,47 @@ Amenazas	.La alta competencia, con competidores solidamente establecidos y las p
 **Para escritores:**
 
 Preguntas introductorias:
-1.	¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
-2.	¿A qué se dedica actualmente?
-3.	¿Cuáles son los dispositivos que utiliza principalmente?
-4.	¿Qué te motiva a escribir fanfics y compartirlos en línea?
-5.	¿Qué género de historias te gusta producir y cuál es la razón?
+- ¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
+- ¿A qué se dedica actualmente?
+-	¿Cuáles son los dispositivos que utiliza principalmente?
+-	¿Qué te motiva a escribir fanfics y compartirlos en línea?
+-	¿Qué género de historias te gusta producir y cuál es la razón?
 
 Preguntas principales:
-1.	¿Cómo evalúas la accesibilidad de publicar tus fanfics en formato digital para llegar a una audiencia considerable?
-2.	¿Has tenido la posibilidad de generar ingresos a través de tu labor?
+-	¿Cómo evalúas la accesibilidad de publicar tus fanfics en formato digital para llegar a una audiencia considerable?
+-	¿Has tenido la posibilidad de generar ingresos a través de tu labor?
 
 De ser el caso:
 
-3.	¿Fue fácil lograr rentabilizar tu obra?
+-	¿Fue fácil lograr rentabilizar tu obra?
 
 Caso contrario:
-1.	¿Has explorado oportunidades para obtener ingresos con tu contenido?
-2.	En caso de que hayas intentado monetizarlo, ¿qué obstáculos o dificultades encontraste que impidieron que lo lograras?
-3.	En caso de que no hayas buscado monetizarlo, ¿te interesaría recibir alguna forma de recompensa económica por tu trabajo?
-4.	¿Cómo te gustaría que una plataforma en línea te ayudara en tu proceso de creación de contenido?
-5.	¿Qué funcionalidades esperarías de una plataforma en línea para simplificar el proceso de creación y compartición de contenido?
-6.	Desde tu perspectiva como creador de contenido, ¿cuál crees que es el aspecto más crucial para que una plataforma en línea sea efectiva?
-7.	¿De qué manera te gustaría recibir incentivos o reconocimientos por tu labor en una plataforma en línea?
-8.	¿Qué tipo de feedback o interacción con los lectores valoras más como autor de fanfics?
+-	¿Has explorado oportunidades para obtener ingresos con tu contenido?
+-	En caso de que hayas intentado monetizarlo, ¿qué obstáculos o dificultades encontraste que impidieron que lo lograras?
+-	En caso de que no hayas buscado monetizarlo, ¿te interesaría recibir alguna forma de recompensa económica por tu trabajo?
+-	¿Cómo te gustaría que una plataforma en línea te ayudara en tu proceso de creación de contenido?
+-	¿Qué funcionalidades esperarías de una plataforma en línea para simplificar el proceso de creación y compartición de contenido?
+-	Desde tu perspectiva como creador de contenido, ¿cuál crees que es el aspecto más crucial para que una plataforma en línea sea efectiva?
+-	¿De qué manera te gustaría recibir incentivos o reconocimientos por tu labor en una plataforma en línea?
+-	¿Qué tipo de feedback o interacción con los lectores valoras más como autor de fanfics?
 
 **Para lectores de contenido:**
 
 Preguntas introductorias:
-1.	¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
-2.	¿Cuáles son los aspectos que disfrutas al leer fanfics?
-3.	¿Cuáles son los dispositivos que utiliza principalmente?
-4.	¿Cuáles son los géneros de fanfics que captan más tu interés y cuál es la razón detrás de esa preferencia?
+-	¿Cuál es su nombre completo y cuántos años tiene? Además, ¿en qué distrito se encuentra actualmente?
+-	¿Cuáles son los aspectos que disfrutas al leer fanfics?
+-	¿Cuáles son los dispositivos que utiliza principalmente?
+-	¿Cuáles son los géneros de fanfics que captan más tu interés y cuál es la razón detrás de esa preferencia?
 
 Preguntas principales:
-1.	¿En qué lugares frecuentas para buscar y consumir contenido en línea?
-2.	¿Qué funciones esperarías de una plataforma en línea para hacer la experiencia de lectura más sencilla?
-3.	¿Cómo te gustaría que la plataforma te ayude a descubrir nuevos fanfics relacionados con tus intereses?
-4.	¿Cómo te gustaría que una plataforma web reconociera y premiara a los autores talentosos?
-5.	¿Qué tipos de recompensas o estímulos te gustaría recibir por participar en la lectura y compartición de contenido en una plataforma en línea?
-6.	Desde tu perspectiva como lector de contenido, ¿qué crees que es esencial para que una plataforma en línea te resulte beneficiosa?
-7.	¿Qué expectativas tienes acerca de cómo una plataforma en línea podría asistirte en el seguimiento y la gestión de los contenidos que te atraen?
-8.	¿Valorarías la opción de poder seguir a autores o historias específicas en la plataforma?
+-	¿En qué lugares frecuentas para buscar y consumir contenido en línea?
+-	¿Qué funciones esperarías de una plataforma en línea para hacer la experiencia de lectura más sencilla?
+-	¿Cómo te gustaría que la plataforma te ayude a descubrir nuevos fanfics relacionados con tus intereses?
+-	¿Cómo te gustaría que una plataforma web reconociera y premiara a los autores talentosos?
+-	¿Qué tipos de recompensas o estímulos te gustaría recibir por participar en la lectura y compartición de contenido en una plataforma en línea?
+-	Desde tu perspectiva como lector de contenido, ¿qué crees que es esencial para que una plataforma en línea te resulte beneficiosa?
+-	¿Qué expectativas tienes acerca de cómo una plataforma en línea podría asistirte en el seguimiento y la gestión de los contenidos que te atraen?
+-	¿Valorarías la opción de poder seguir a autores o historias específicas en la plataforma?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -416,16 +393,32 @@ Ella conoce que Wattpad da premios y ayuda a los escritores a publicar sus fanfi
 Sobre recompensas, considera que sería bueno que la aplicación diera a los lectores la posibilidad de leer capítulos de pago de manera gratuita por compartir o leer muchos capítulos gratuitos.
 La idea de aplicación le pareció interesante, y le gustaría que nos enfoquemos en puntos clave: Que sea visualmente agradable y moderna, que contenga un sistema de bibliotecas y favoritos, así como seguimientos, y que su sistema de búsqueda cuente con filtros con el fin que sea más sencillo encontrar los fanfics de su preferencia.
 
+Nombre completo: Maren Luna
+
+Edad: 19 años
+
+Distrito: San Juan de Lurigancho 
+
+![Alt text](image-18.png)
 
 
+La entevistada disfruta leer los fanfics porque visualiza las imagenes que para ella es muy importante, comenta que suele descargaar los fanfics de cualquier página que encuentre. No le agrada que ciertas páginas no se puedan leer correctamente los fanfics, le gustaría que una plataforma permita agregar comentarios. No le gustaria un algoritmo que le muestre fanfics de autores que ya ha leido.
 
+Nombre completo: Pablo Espejo
 
+Edad: 20 años
+
+Distrito: Surco
+
+![Alt text](image-19.png)
+
+Pablo nos comenta que disfruta leer, y para leerlo utiliza su laptiop y celular. El no es seguidor de una sola página, inclusive lee en redes sociales, como por ejemplo Twitter y Facebook, le agradaría que una página pueda tener opción de poder ajustar el tamño de letra y color para poder leer agusto el fanfic, lo mismo para el fondo. Le parece interesante que una plataforma cuente con un apartado para las recomendaciones de acuerdo a sus gustos. Considera que se le debe pagar al creador de fanfics 
 
 ### 2.2.3. Análisis de entrevistas
 - Lectores:
 
 Se valora la comunidad la accesibilidad a las métricas. Además, se considera que se debe brindar recompensas y apoyo a los escritores.
-Los entrevistados consideran que una plataforma con características claves como bibliotecas, favoritos y búsqueda avanzada, esto seria ideal para mejorar la experiencia de la lectura de fanfics.
+Los entrevistados consideran que una plataforma con características claves como bibliotecas, favoritos y búsqueda avanzada, esto seria ideal para mejorar la experiencia de la lectura de fanfics. También le gustaría obtener recompensas cada vez que lee un fanfic. Considera importante que la plataforma siempre se actualice constantemente.
 
 - Escritores:
 
@@ -443,33 +436,11 @@ Una plataforma que les brinde herramientas necesarias para poder crear sus fanfi
 
 *Escritores*
 
-Task	Abril López
-Frecuencia	Importancia
-
-Poner en público su contenido	Alta	Alta
-
-Tener una estadística sobre el contenido que suben	Alta	Alta
-
-Modificar su contenido que realizan	Media	Media
-
-Hacer anuncios de su contenido antes de subir a la plataforma	Media	Media
+![Alt text](image-11.png)
 
 *Lectores*
 
-Task	Kevin Miranda
-	Frecuencia	Importancia
-
-Realizar búsqueda avanzada de contenidos.	Alta	Alta
-
-Leer contenidos usando nuestra plataforma	Alta	Alta
-
-Brindar más información y diversos géneros de fanfics	Media	Media
-
-Revisar las tendencias y recomendaciones que brinda la plataforma	Media	Media
-
-Descargar diversos fanfics a través de la pagina web.	Alta	Alta
-
-Tener interacción con la comunidad a través de la plataforma	Alta	Alta
+![Alt text](image-12.png)
 
 
 
@@ -1048,6 +1019,7 @@ Payment context:
 # Capítulo V: Product Implementation, Validation, & Deployment
 ## 5.1. Software Configuration Managment
 ### 5.1.1. Software Development Enviroment Configuration
+
 A continuación, se procederá a describir cada una de las herramientas de software que han sido empleadas en el proyecto. Este apartado resultará de utilidad para facilitar que los actuales y futuros desarrolladores puedan colaborar en el ciclo de vida del proyecto gracias a tener una documentación sobre cómo se está llevando a cabo el desarrollo.
 
 Project Management
@@ -1186,63 +1158,46 @@ Y: Versión menor. Aquí se encuentran los cambios que sí son compatibles con l
 Z: Parches y correcciones de errores menores. Aquí se incluyen los commits realizados desde la “hotfix branch” que se acaban haciendo merge al “main”.
 
 ### 5.1.3. Source Code Style Guide & Conventions
+
 Para el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que contiene las convenciones que se deben tener en cuenta al trabajar con dichas tecnologías. Para guirarnos de las buenas prácticas accederemos mediante este enlace: https://google.github.io/styleguide/htmlcssguide.html. Entre algunas convenciones podemos mencionar:
 
-•Siempre declarar el tipo de documento con <!DOCTYPE html>
-
-•Usar siempre letras en minúsculas para los nombres de los elementos (como <p>, <h1>, <section>, entre otros).
-
-•Cerrar siempre con los elementos de HTML (por ejemplo <p></p>)
-
-•Siempre poner entre comillas los atributos dentro de un elemento html (<p class=”name”></p>)
-
-•Especificar alt, width, and height para imágenes.
-
-•Espaciado y signo igual estandarizados.
-
-•Evitar líneas de código extensas.
-
-•No olvidar el “<title></title>” al principio.
-
-•Es posible evitar el “<head></head>”.
-
-•Utilizar meta tags al inicio.
+- Siempre declarar el tipo de documento con `<!DOCTYPE html>`.
+- Usar siempre letras en minúsculas para los nombres de los elementos (como `<p>`, `<h1>`, `<section>`, entre otros).
+- Cerrar siempre con los elementos de HTML (por ejemplo `<p></p>`)
+- Siempre poner entre comillas los atributos dentro de un elemento html (`<p class=”name”></p>`)
+- Especificar alt, width, and height para imágenes.
+- Espaciado y signo igual estandarizados.
+- Evitar líneas de código extensas.
+- No olvidar el `<title></title>` al principio.
+- Es posible evitar el `<head></head>`.
+- Utilizar meta tags al inicio.
 
 Para el lenguaje TypeScript se usará la guía de estilos proveída por Google en el siguiente repositorio de Github: 
 
 https://google.github.io/styleguide/tsguide.html. A continuación se presentan algunas convenciones:
 
-•	No utilizar # para especificar atributos privados. Emplear la palabra reservada private.
-
-•	Para instanciar objetos de una clase, siempre utilizar los paréntesis () aunque no se pasen parámetros al constructor.
-
-•	No utilizar export default, sino emplear solamente export.
+- No utilizar # para especificar atributos privados. Emplear la palabra reservada private.
+- Para instanciar objetos de una clase, siempre utilizar los paréntesis () aunque no se pasen parámetros al constructor.
+- No utilizar export default, sino emplear solamente export.
 
 Para el lenguaje Gherkin se usará las convenciones mencionadas en Make your Gherkin Specifications More Readable con el fin de utilizar buenas prácticas que nos permitan comprender mejor lo desarrollado. Los archivos creados tendrán la extensión “. feature”. 
 Se puede conocer más sobre la forma de escribir en el lenguaje de Gerkhin mediante el siguiente enlace: https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/. 
 A continuación se presentan algunas convenciones:
-
-•	Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
-
-•	Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
-
-•	Usar verbos finitos para las acciones del escenario.
-
-•	Evitar redundancias en la descripción de los pasos en el escenario.
-
-•	Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
+- Escribir las especificaciones en un lenguaje simple y fácil de entender por todos los miembros del equipo de desarrollo.
+- Utilizar las palabras "Given", "When" y "Then" y “And” para los pasos del escenario.
+- Usar verbos finitos para las acciones del escenario.
+- Evitar redundancias en la descripción de los pasos en el escenario.
+- Utilizar formato y estilo consistente en toda la especificación, para todos los escenarios.
 
 Para el desarrollo en con Angular JS se tiene como referencia las convenciones ya definidas por el mismo equipo de Angular con el objetivo de mantener un formato entendible y que ayude en el mantenimiento del sistema. Se puede visualizar las convenciones en el siguiente link: https://angular.io/guide/styleguide. A continuación presentamos algunas convenciones esenciales en Angular:
 
-•	Definir funciones cortas que no superen las 75 líneas.
-
-•	Hacer un uso consistente de los nombres de archivos: feature.type.ts
-
-•	Utilizar kebab-case para nombrar los selectores de los componentes.
+- Definir funciones cortas que no superen las 75 líneas.
+- Hacer un uso consistente de los nombres de archivos: feature.type.ts
+- Utilizar kebab-case para nombrar los selectores de los componentes.
 
 Para el uso de Java, Google proveé una guía de estilos bastante completa la cual nos permitirá aplicar sus estándares. Se puede conocer más sobre esto en el siguiente link: https://google.github.io/styleguide/javaguide.html. Entre algunas convenciones podemos mencionar:
 
-•	Utilizar los métodos estáticos haciendo uso de la clase y no de una instancia:
+- Utilizar los métodos estáticos haciendo uso de la clase y no de una instancia:
 
 Foo aFoo = ...;
 
@@ -1255,6 +1210,7 @@ somethingThatYieldsAFoo().aStaticMethod(); // very bad
 Finalmente, para Spring Boot Framework se empleará la documentación planteada en: https://docs.spring.io/spring-boot/docs/current/reference/html/features.html 
 
 ### 5.1.4. Software Deployment Configuration
+
 En esta sección abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado de Netlify, para lograr el siguiente objetivo se describirán los pasos necesarios.
 
 1.	Nos aseguramos de tener un repositorio activado el cuál queramos vincular.
@@ -1281,9 +1237,10 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+
 | **Sprint Planning Background** | |
 | --- | --- |
-| **Date** | **05 de septiembre del 2023** |
+| **Date** | **21 de agosto del 2023** |
 | - Time | 17:00 horas (GMT-5) |
 | **Location** | **Modalidad remota por Discord** |
 | Prepared By | Salomón Zegarra |
@@ -1297,27 +1254,119 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 #### 5.2.1.2. Sprint Backlog 1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-
+Repositorio de la Landing Page:
+![Landing Repository](landing-repository.png)
+Link del repositorio: https://github.com/Programadores-de-lavadoras/PDL-landing-page 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
+
 Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
+
+![Landing Execution Evidence 1](execution-evidence-landing-1.png)
+
+![Landing Execution Evidence 2](execution-evidence-landing-2.png)
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 En el alcance del sprint 1 se ha desarrollado el landing page como primera instancia, por lo que no se evidencia el empleo de web services.
+
 #### 5.2.1.7. Software Deployment for Sprint Review
+
 Para el presente sprint, se ha desarrollado el landing page. Para el despliegue de su despliegue se han utilizado las siguientes herramientas:
+
 Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
-GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page,
+GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page.
+
 GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
 Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
 
+Link del Landing Page desplegado: https://wondrous-snickerdoodle-d619f3.netlify.app 
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
 El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
+
+![Landing Insights](landing-insights-1.png)
+
+![Landing Insights](landing-insights-2.png)
+
+### 5.3.1. Sprint 2
+#### 5.3.1.1. Sprint Planning 2
+
+| **Sprint Planning Background** | |
+| --- | --- |
+| **Date** | **17 de agosto del 2023** |
+|  Time | 15:00 horas (GMT-5) |
+| **Location** | **Modalidad remota por Discord** |
+| Prepared By | Salomón Zegarra |
+| Attendees (to plannign meeting) | Todos los miembros del equipo FicUniverse |
+| Sprint n-1 Review summary | Se realizó y desplegó el Landing Page del startup, además del registro de documentación por medio del reporte |
+| Sprint n-1 Retrospective Summary | La implementación para la Landing Page se ha realizado empleando Tailwind, lo que resultó  algo nuevo para algunos miembros del equipo. Por lo tanto, ha sido un reto aprenderlo e implementarlo. Con el apoyo de los compañeros se ha podido avanzar. |
+| Sprint Goal & User Stories | Se realizará las primeras interfaces de nuestro front-end empleando Angular como framework, de acuerdo a los mockups que se habian realizado anteriormente. Para esto cada compañero realizará un CRUD.|
+| Sprint 2 Velocity | 2 semana |
+| Sum of Story Points | 25 |
+
+
+#### 5.3.1.2. Sprint Backlog 2
+
+![Alt text](image-20.png)
+
+#### 5.3.1.3. Development Evidence for Sprint Review
+
+| Repository | Branch | Commit ID | Commit Message de modificación | Commited on (Date) |
+|----------|----------|----------|----------|----------|
+| 1.0   | develop   | 12e2465 |Initial commit| 25/08/2023|
+| 2.0   | develop   | 91c1df3 |First commit| 25/08/2023|
+| 3.0   | develop   | 2eda68b |refactor: adding dependencies and .json files | 25/08/2023|
+| 4.0   | develop   | 53617f8 |feature: added imports modules and changed default theme| 29/08/2023|
+| 5.0   | feature/StevensAcha   | 998e715 |feature: added chapter component |29/08/2023|
+| 6.0   | feature/SantosAlexis   | 12e2465 | feature: added fanfic component| 29/08/2023|
+
+Captura del repositorio:
+
+![Repository evidence](development-evidence.png)
+
+Link del repositorio: https://github.com/Programadores-de-lavadoras/front-ficuniverse 
+
+#### 5.3.1.4. Testing Suite Evidence for Sprint Review
+
+Esta etapa de desarrollo aún no comprende el testeo del front end de la aplicación. Solo se reitera el testeo realizado previamente durante el sprint 1. empleando Gherkin.
+
+#### 5.3.1.5. Execution Evidence for Sprint Review
+
+Capturas de la ejecución del frontend:
+
+![Excecution evidence 1](execution-evidence-1.png)
+![Excecution evidence 2](execution-evidence-2.jpg)
+
+
+#### 5.3.1.6. Services Documentation Evidence for Sprint Review
+
+Para este Sprint, no está dentro del alcance la documentación con el servicio API desplegado del backend. Sin embargo, se ha empleado un "fake API" empleando Json Server, permitiendo consultar todos los endpoints CRUD (GET/POST/UPDATE/DELETE) para nuestra applicación.
+
+#### 5.3.1.7. Software Deployment for Sprint Review
+
+Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
+
+#### 5.3.1.8. Team Collaboration Insights during Sprint
+
+El equipo desarrolló el avance del frontend por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
+
+
+![Frontend Insight 1](insights-sprint-2-1.png)
+![Frontend Insight 2](insights-sprint-2.png)
+
+
 ---
 # Conclusiones
+
 Para lograr un proyecto exitoso, resulta vital realizar todo el proceso de documentación y diseño de la aplicación que se busca solucionar. En este sentido, destacamos la gran importancia que supone la elaboración de entrevistas, ya que estas nos permiten comprender y reconocer qué es lo que verdaderamente espera el usuario encontrar en nuestra aplicación.
 
 Asimismo, es fundamental tener una base sólida y una organización clara sobre cómo llegar del punto inicial de planteamiento, al punto final que será la implementación del producto de software. Es por ello por lo que recomendamos encarecidamente realizar buenos diagramas C4, UML y de DB, ya que estos son la base fundamental sobre la que se trabajará en los posteriores entregables y, de tener un buen diseño, se podrán adaptar a las necesidades que surjan al momento de llevar a cabo la implementación.
+
+Como sprint de desarrollo, tanto en el sprint 1 como en el sprint 2 ha sido un reto organizarnos como equipo. Sin embargo, todo esfuerzo lleva a su recompenza y hemos logrado desarrollar los objetivos planteado en el sprint gracias a la comunicación y el trabajo colaborativo. Además, se reconoce que las herramientas de Git y GitHub son de gran ayuda para que este tipo de trabajos sean posibles.
 
 ---
 # Bibliografía
@@ -1332,4 +1381,5 @@ T. (2018, 21 junio). Information Architecture. Basics for Designers. - UX Planet
 
 ---
 # Anexos
+
 Lean UX Canva: https://miro.com/app/board/uXjVMmr7aIo=/?share_link_id=353946713036
