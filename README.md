@@ -38,6 +38,14 @@
 | 1.0   | 27/08/2023   | Salomón Zegarra Moreno |Creación del reporte y se definió la estructura del informe|
 
 -----
+# Student Outcomes
+| Criterio específico | Acciones Realizadas | Conclusiones |
+|----------|----------|----------|
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.   |  Acha Esquerre, Stevens Kharis.<br> TB1 <br>Logré comunicar oralmente mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio de un video expositivo. <br>TP1<br> Logré comunicar mis ideas y resultados orálmente a través de las reuniones en equipo y el video expositivo, explicando mi parte del Sprint 2, la Entidad Chapters con su CRUD. Asimismo por medio de la exposición realizada en clase.<br>
+  |  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Acha Esquerre, Stevens Kharis.<br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrollo del proyecto. Pude expresar mis resultados encargándome del capitulo 4, tanto dentro de los MockUps como en el approach de Domai-Driven Software Architecture. <br>TP1<br> Logré comunicar mis ideas y resultados de manera escrita a través de las reuniones en equipo, la mejora continua del reporte, y el desarrollo del CRUD de la entidad Chapters para la primera versión de la aplicación frontend.<br> |  |
+
+-----
 
 # Project Report Collaboration Insights
 [Repository to Final Report](https://github.com/Programadores-de-lavadoras/Report)
@@ -1246,12 +1254,18 @@ En esta sección abordaremos el despliegue de nuestra Landing Page mediante el s
 #### 5.2.1.2. Sprint Backlog 1
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-
+Repositorio de la Landing Page:
+![Landing Repository](landing-repository.png)
+Link del repositorio: https://github.com/Programadores-de-lavadoras/PDL-landing-page 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
 
 Para esta entrega, el equipo Programadores de lavadoras logró implementar el landing page, en el cual se presentan secciones que brindarán información específica para conocer mejor a la organización, la aplicación que ofrecemos, opiniones y los planes de pago.
+
+![Landing Execution Evidence 1](execution-evidence-landing-1.png)
+
+![Landing Execution Evidence 2](execution-evidence-landing-2.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1260,15 +1274,23 @@ En el alcance del sprint 1 se ha desarrollado el landing page como primera insta
 #### 5.2.1.7. Software Deployment for Sprint Review
 
 Para el presente sprint, se ha desarrollado el landing page. Para el despliegue de su despliegue se han utilizado las siguientes herramientas:
+
 Git: Sistema de control de versiones que nos ayudó a trabajar en equipo durante el desarrollo del landing page.
-GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page,
+GitFlow: Flujo de trabajo que no ayudó a controlar el avance de cada integrante del equipo en el desarrollo del landing page.
+
 GitHub: Plataforma que nos ayudó al desarrollo colaborativo del equipo para almacenar las versiones de nuestro proyecto.
+
 Netlify: Plataforma que automatiza webs estáticas que nos permitió alojar y desplegar el landing page.
+
+Link del Landing Page desplegado: https://wondrous-snickerdoodle-d619f3.netlify.app 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 El equipo desarrolló el landing page por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
 
+![Landing Insights](landing-insights-1.png)
+
+![Landing Insights](landing-insights-2.png)
 
 ### 5.3.1. Sprint 2
 #### 5.3.1.1. Sprint Planning 2
@@ -1330,6 +1352,11 @@ Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
 
 #### 5.3.1.8. Team Collaboration Insights during Sprint
 
+El equipo desarrolló el avance del frontend por ramas para desarrollar cada sección, mejorarlo y actualizarlo, la ventaja de usar estas ramas es que permiten actualizar y realizar modificaciones para luego presentarlas y corroborar que no haya algún error al unirla a la rama master. A continuación, se presenta el insight del equipo a través de la plataforma GitHub.
+
+
+![Frontend Insight 1](insights-sprint-2-1.png)
+![Frontend Insight 2](insights-sprint-2.png)
 
 
 ---
@@ -1338,6 +1365,8 @@ Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
 Para lograr un proyecto exitoso, resulta vital realizar todo el proceso de documentación y diseño de la aplicación que se busca solucionar. En este sentido, destacamos la gran importancia que supone la elaboración de entrevistas, ya que estas nos permiten comprender y reconocer qué es lo que verdaderamente espera el usuario encontrar en nuestra aplicación.
 
 Asimismo, es fundamental tener una base sólida y una organización clara sobre cómo llegar del punto inicial de planteamiento, al punto final que será la implementación del producto de software. Es por ello por lo que recomendamos encarecidamente realizar buenos diagramas C4, UML y de DB, ya que estos son la base fundamental sobre la que se trabajará en los posteriores entregables y, de tener un buen diseño, se podrán adaptar a las necesidades que surjan al momento de llevar a cabo la implementación.
+
+Como sprint de desarrollo, tanto en el sprint 1 como en el sprint 2 ha sido un reto organizarnos como equipo. Sin embargo, todo esfuerzo lleva a su recompenza y hemos logrado desarrollar los objetivos planteado en el sprint gracias a la comunicación y el trabajo colaborativo. Además, se reconoce que las herramientas de Git y GitHub son de gran ayuda para que este tipo de trabajos sean posibles.
 
 ---
 # Bibliografía
