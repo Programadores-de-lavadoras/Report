@@ -1202,7 +1202,7 @@ Commit Conventions:
 
 El formato de nuestros commits sigue la estructura de los “Conventional Commits” en su versión 1.0.0 (https://www.conventionalcommits.org/en/v1.0.0/) con el objetivo de proporcionar una lectura sencilla de los mismos. Por ello seguimos el siguiente formato:
 
-<type> [optional scope]: <description>
+`<type> [optional scope]: <description>`
 
 Donde:
 
