@@ -1412,7 +1412,7 @@ Repositorio: https://github.com/Programadores-de-lavadoras/back-ficuniverse
 | 7.0   | feature/SalomonZegarra  | 2e62a3c |feat: added Category Service |04/11/2023|
 | 8.0   | feature/SalomonZegarra  | e0d8b40 |chore: added Category Controller. |04/11/2023|
 | 9.0   | feature/SalomonZegarra  | 570fcfe |chore: added Category Service Implementation. |04/11/2023|
-| 10.0   | feature/SalomonZegarra  | 7d41fb1 |chore: added connection to database. |04/11/2023|
+| 10.0   | feature/SalomonZegarra  | 7d41fb1 |chore: added connection to database. |04/11/2023| 
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 En el alcance del presente sprint, no se han desarrollado funcionalidades referentes a testing en el backend API.
