@@ -42,7 +42,7 @@
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |----------|----------|----------|
 | Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | Acha Esquerre, Stevens Kharis<br> TB1 <br>Logré comunicar oralmente mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio de un video expositivo, explicando el capítulo 4, correspondiente al diseño UI/UX y Domain-Drive Software Architecture. <br>TP<br> Logré comunicar mis ideas y resultados orálmente a través de las reuniones en equipo y el video expositivo, explicando mi parte del Sprint 2, la Entidad Chapters con su CRUD. Asimismo por medio de la exposición realizada en clase Logré comunicar oralmente mis ideas a mis compañeros a través de las reuniones virtuales y las presentaciones en clase.<br> <br> Laguerre Challco, Fabrizzio Hernán  <br> TB1 <br>Logré comunicar oralmente mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio de un video expositivo. <br>TP<br> Logré comunicar oralmente mis ideas a mis compañeros a través de las reuniones virtuales y las presentaciones en clase. <br> <br>Patazca Calderón, Santos Alexis <br> TB1 <br> Mantuve la comunicación con mis compañeros de equipo a través de las diversas reuniones con el fin de lograr un trabajo eficiente. Se concretaron varias ideas y se logro ir avanzando. Pude despejar mis diversas dudas gracias a mis compañeros. <br> TP <br> Conseguí plasmar mis ideas en el proyecto que se había asignado previamente a las reuniones con mis compañeros, realizando un CRUD que fue explicando mediante un video. | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Acha Esquerre, Stevens Kharis<br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrollo del proyecto. Pude expresar mis resultados encargándome del capitulo 4, tanto dentro de los MockUps como en el approach de Domai-Driven Software Architecture. <br>TP1<br> Logré comunicar mis ideas y resultados de manera escrita a través de las reuniones en equipo, la mejora continua del reporte, y el desarrollo del CRUD de la entidad Chapters para la primera versión de la aplicación frontend. <br> <br> Laguerre Challco, Fabrizzio Hernán  <br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio del reporte realizado. <br>TP<br> Logré comunicar de manera escrita mis ideas a mis compañeros a través de las reuniones virtuales y mi parte dentro del avance del frontend. <br> <br> Patazca Calderón, Santos Alexis <br> TB1 <br> Logre finalizar con éxito el trabajo propuesto, que se me había asignado el capitulo 2 que fue de gran importancia para conocer a nuestro publico objetivo realizando entrevistas y conocer las diversas propuestas que tienen nuestros competidores. <br> TP <br> Se realizó las correcciones del entregable anterior, como es el caso del reporte que facilita una mejor lectura de nuestro proyecto. Desarrollé un CRUD que es una primera versión y muestra el registro, editar y eliminar los fanfics.<br>Zegarra Moreno, Salomón<br>TB1<br> A través del reporte del trabajo final pude comunicar mis ideas, colaboré en el desarrollo de la estructura del informe y de las partes que en reuniones habíamos quedado para resolver.<br> TP1<br> Para este entregable desarrolle la estructura del informe |  |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Acha Esquerre, Stevens Kharis<br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrollo del proyecto. Pude expresar mis resultados encargándome del capitulo 4, tanto dentro de los MockUps como en el approach de Domai-Driven Software Architecture. <br>TP1<br> Logré comunicar mis ideas y resultados de manera escrita a través de las reuniones en equipo, la mejora continua del reporte, y el desarrollo del CRUD de la entidad Chapters para la primera versión de la aplicación frontend. <br> <br> Laguerre Challco, Fabrizzio Hernán  <br> TB1 <br>Logré comunicar de manera escrita mis ideas a mi equipo por medio de reuniones para el desarrolo del proyecto. Asimismo, pude expresar los resultados del proyecto por medio del reporte realizado. <br>TP<br> Logré comunicar de manera escrita mis ideas a mis compañeros a través de las reuniones virtuales y mi parte dentro del avance del frontend. <br> <br> Patazca Calderón, Santos Alexis <br> TB1 <br> Logre finalizar con éxito el trabajo propuesto, que se me había asignado el capitulo 2 que fue de gran importancia para conocer a nuestro publico objetivo realizando entrevistas y conocer las diversas propuestas que tienen nuestros competidores. <br> TP <br> Se realizó las correcciones del entregable anterior, como es el caso del reporte que facilita una mejor lectura de nuestro proyecto. Desarrollé un CRUD que es una primera versión y muestra el registro, editar y eliminar los fanfics.<br> <br> Zegarra Moreno, Salomón<br>TB1<br> A través del reporte del trabajo final pude comunicar mis ideas, colaboré en el desarrollo de la estructura del informe y de las partes que en reuniones habíamos quedado para resolver.<br> TP1<br> Para este entregable desarrolle la estructura del informe<br>  TB3<br> Para este entregable desarrolle la estructura del informe y se añadió la entidad category|  |
 
 -----
 
@@ -136,6 +136,15 @@
             - [Services Documentation Evidence for Sprint Review](#5316-services-documentation-evidence-for-sprint-review)
             -  [Software Deployment for Sprint Review](#5317-software-deployment-for-sprint-review)
             - [Team Collaboration Insights during Sprint](#5318-team-collaboration-insights-during-sprint)
+        - [Sprint 3](#523-sprint-3)
+            - [Sprint Planning 3](#5231-sprint-planning-3)
+            - [Sprint Backlog 3](#5232-sprint-backlog-3)
+            - [Development Evidence for Sprint Review](#5233development-evidence-for-sprint-review)
+            - [Testing suite evidence for Sprint Review](#5234testing-suite-evidence-for-sprint-review)
+            - [Execution Evidence for Sprint Review](#5235execution-evidence-for-sprint-review)
+            - [Services Documentation Evidence for Sprint Review](#5236services-documentation-evidence-for-sprint-review)
+            -  [Software Deployment for Sprint Review](#5237software-deployment-evidence-for-sprint-review)
+            - [Team Collaboration Insights during Sprint](#5238team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
@@ -1369,6 +1378,60 @@ El equipo desarrolló el avance del frontend por ramas para desarrollar cada sec
 
 ![Frontend Insight 2](insights-sprint-2.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+| **Sprint Planning Background** | |
+| --- | --- |
+| **Date** | **28 de octubre del 2023** |
+|  Time | 15:00 horas (GMT-5) |
+| **Location** | **Modalidad remota por Discord** |
+| Prepared By | Salomón Zegarra |
+| Attendees (to plannign meeting) | Todos los miembros del equipo FicUniverse |
+| Sprint n-1 Review summary | Se realizó un avance del backend, y se arregló el reporte final |
+| Sprint n-1 Retrospective Summary | La implementación del backend se ha realizado empleando Spring Boot, lo que resultó  algo nuevo para algunos miembros del equipo. |
+| Sprint Goal & User Stories | Se realizarán los primeros bounded context de nuestro backend empleando Spring Boot como framework.|
+| Sprint 2 Velocity | 2 semana |
+| Sum of Story Points | 25 |
+
+#### 5.2.3.2. Sprint Backlog 3
+En esta sección se presentará el sprint backlog que se ha administrado principalmente en la plataforma de Trello. Luego, se muestra la tabla de las tareas que los miembros del equipo fueron asignando para su respectiva implementación. Cabe mencionar que los espacios resaltados en gris significan que, en el alcance del sprint 3, estas tareas no han sido asignadas por algún miembro del equipo.
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+En esta sección se incluyen los commits realizados a los repositorios de la API en Github. Sin embargo, debido a la gran cantidad de commits realizados, se presentarán los commits más relevantes para el proceso de desarrollo en cada repositorio.
+
+Repositorio: https://github.com/Programadores-de-lavadoras/back-ficuniverse
+
+| Repository | Branch | Commit ID | Commit Message de modificación | Commited on (Date) |
+|----------|----------|----------|----------|----------|
+| 1.0   | main   | 794a79f |first commit: uploading project | 03/11/2023|
+| 2.0   | feature/StevensAcha   | b5065b2 |feature: adding entity chapter |03/11/2023|
+| 3.0   | feature/FabrizzioLaguerre   | 4ba3dbb | fAdding class comments| 03/11/2023|
+| 4.0   | feature/SalomonZegarra  | 4b91f22 |chore: added new branch and category entity |04/11/2023|
+| 5.0   | feature/SalomonZegarra  | 9b7d026 |feat: added Category entity |04/11/2023|
+| 6.0   | feature/SalomonZegarra  | c983d78 |feat: added Category Repository |04/11/2023|
+| 7.0   | feature/SalomonZegarra  | 2e62a3c |feat: added Category Service |04/11/2023|
+| 8.0   | feature/SalomonZegarra  | e0d8b40 |chore: added Category Controller. |04/11/2023|
+| 9.0   | feature/SalomonZegarra  | 570fcfe |chore: added Category Service Implementation. |04/11/2023|
+| 10.0   | feature/SalomonZegarra  | 7d41fb1 |chore: added connection to database. |04/11/2023|
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+En el alcance del presente sprint, no se han desarrollado funcionalidades referentes a testing en el backend API.
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+En el alcance del presente sprint, no se han desarrollado funcionalidades referentes a la ejecucion ni el despliegue del backend API.
+
+![Excecution evidence](image-execution-sprint3.png)
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+Para este Sprint, no está dentro del alcance la documentación con el servicio API desplegado del backend.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+Para este Sprint, no está dentro del alcance el despliegue de la aplicación.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+![Team collaboration evidence 1](team-collaboration-sprint3-1.png)
+
+![Team collaboration evidence 2](team-collaboration-sprint3-2.png)
 
 ---
 # Conclusiones
